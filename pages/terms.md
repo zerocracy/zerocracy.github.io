@@ -98,7 +98,7 @@ improve our services, to develop new ones, and to protect Zerocracy
 and our users. We also use this information to offer you tailored
 content. We will ask for your consent before using information for
 a purpose other than those that are set out in these Terms. We never
-provide for free or sell any information about your or your projects
+provide for free or sell any information about you or your projects
 to any third-parties.
 
 <a name="law" href="#law">Law</a>.
