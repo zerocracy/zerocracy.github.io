@@ -357,11 +357,7 @@ The quality of a job is `good' if all of the following requirements are met:
   * Pull request title explains the problem it is fixing.
   * Pull request description explains the solution proposed and
     contains a link to the original ticket it is related to.
-  * The code reviewer found at least three problems in the code.
+  * The code reviewer found at least three problems in the code ([discuss](https://github.com/zerocracy/datum/issues/294)).
   * Comments were mostly about design problems, not cosmetic issues.
   * All problems found by the code reviewer were addressed by
     the pull request author.
-
-
-
-
