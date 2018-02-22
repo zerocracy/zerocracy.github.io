@@ -15,7 +15,7 @@ and hosted by [Zerocracy](http://www.zerocracy.com).
 
 If you want to change something in the Policy or simply
 suggest an improvement, please submit a ticket
-[here](https://github.com/zerocracy/farm/issues).
+[here](https://github.com/zerocracy/zerocracy.github.io/issues).
 If you want to discuss the Policy or your troubles with the bot,
 please join this [Telegram chat](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A).
 
