@@ -1,0 +1,36 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="{{ page.description }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="shortcut icon" href="//www.0crat.com/png/logo.png"/>
+    <link rel="stylesheet" href="//www.0crat.com/css/main.css"/>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js">
+      <!-- intentionally empty -->
+    </script>
+    <title>{{ page.title }}</title>
+    <style>
+      a:target {
+        font-size: 1.6em;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      {{ content }}
+    </section>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-1963507-48', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

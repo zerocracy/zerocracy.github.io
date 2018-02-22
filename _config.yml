@@ -1,0 +1,28 @@
+title: Zerocracy.com
+email: team@zerocarcy.com
+description: >
+  A project manager that never sleeps
+baseurl: ""
+url: "http://www.zerocracy.com"
+twitter_username: 0crat
+github_username: zerocracy
+markdown: kramdown
+author:
+  name: "Yegor Bugayenko"
+  email: yegor@zerocracy.com
+encoding: utf-8
+timezone: America/San_Francisco
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  title: Zerocracy.com
+  subtitle: A project manager that never sleeps
+  path: rss.xml
