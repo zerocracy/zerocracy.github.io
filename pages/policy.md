@@ -52,7 +52,7 @@ You can talk to Zerocrat in:
 <a name="1" href="#1">§1</a>
 "Invite."
 To start working with us you have to be invited by someone we already know,
-whose [reputation](#18) is over 1024.
+whose [reputation](#18) is over <span id="1.min-rep">1024</span>.
 Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your mentor and will be responsible for helping you
 out in the system. Also, the mentor will receive financial bonuses from
@@ -70,14 +70,15 @@ a raise of your [project rate](#13).
 
 <a name="33" href="#33">§33</a>
 "Sandbox."
-You can [apply](#2) to a project only if your [reputation](#18) is over 256.
+You can [apply](#2) to a project only if your [reputation](#18) is over
+<span id="33.min-live">256</span>.
 If it is lower, you can only apply to sandbox projects
 ([Cactoos](https://www.0crat.com/p/C63314D6Z),
 [jPeek](https://www.0crat.com/p/C7JGJ00DP),
 and [PDD](https://www.0crat.com/p/C3T46CUJJ))
-and your highest allowed rate is $16.
-You can't apply to a sandbox project if your reputation is over 1024.
-You will be automatically removed from a sandbox project once your reputation is over 1024.
+and your highest allowed rate is <span id="33.max-sandbox-rate">$16</span>.
+You can't apply to a sandbox project if your reputation is over <span id="33.max-sandbox-rep">+1024</span>.
+You will be automatically removed from a sandbox project once your reputation is over <span id="33.sandbox-rep-threshold">+1024</span>.
 
 <a name="3" href="#3">§3</a>
 "Election."
@@ -90,9 +91,10 @@ You will be notified in job's ticket. The rules include, in order of importance:
   * Shortest average [job completion time](#26) wins
   * The emptiest agenda wins, but the maximum allowed size of agenda
     depends on your [reputation](#18):
-    3 jobs if less than 512 points,
-    8 if less than 2048,
-    16 if less than 4096, 24 otherwise.
+    <span id="3.jobs-1">3</span> jobs if less than <span id="3.rep-1">512</span> points,
+    <span id="3.jobs-2">8</span> if less than <span id="3.rep-2">2048</span>,
+    <span id="3.jobs-3">16</span> if less than <span id="3.rep-3">4096</span>,
+    <span id="3.jobs-4">24</span> otherwise.
   * The size of agenda doesn't matter if the job is a code review.
 
 <a name="4" href="#4">§4</a>
@@ -107,7 +109,7 @@ You will also get as many positive [points](#18) as many minutes you are paid fo
 You may earn positive and negative points for doing good and bad things in
 the projects. They do not affect your cash income, but do affect the impression Zerocrat
 has about you&mdash;the more points you have the more disciplined developer you are.
-Zerocrat takes into account only the points you earned over the last 90 days.
+Zerocrat takes into account only the points you earned over the last <span id="18.days">90</span> days.
 
 <a name="5" href="#5">§5</a>
 "Boost Factor."
@@ -119,7 +121,7 @@ In exceptional situations, you should ask project architect to boost your job.
 <a name="6" href="#6">§6</a>
 "Refusal."
 You may refuse to complete any job by saying `refuse`.
-You will get 15 negative [points](#18) for that.
+You will get <span id="6.penalty">-15</span> [points](#18) for that.
 
 <a name="7" href="#7">§7</a>
 "Definition of Done."
@@ -127,13 +129,13 @@ A job is completed when its ticket is [closed](http://www.yegor256.com/2014/04/1
 
 <a name="8" href="#8">§8</a>
 "Ten Days."
-If you don't complete a job in 10 days Zerocrat _may_ take it away from you.
-You will get no money and 30 negative [points](#18) if this happens.
+If you don't complete a job in <span id="8.days">10</span> days Zerocrat _may_ take it away from you.
+You will get no money and <span id="8.penalty">-30</span> [points](#18) if this happens.
 
 <a name="29" href="#29">§29</a>
 "Pay per Bug."
 Each time you report a new [bug](http://www.yegor256.com/2018/02/06/where-to-find-more-bugs.html)
-that becomes a job, you earn 15 minutes.
+that becomes a job, you earn <span id="29.points">+15</span> minutes.
 
 <a name="9" href="#9">§9</a>
 "Impediments."
@@ -145,14 +147,14 @@ is not applicable to it.
 "Speed Bonus."
 Zerocracy measures the time interval between the moment
 a job is assigned to you and the moment it goes out of scope.
-If this interval is shorter than 4 hours, you get extra 10 minutes.
+If this interval is shorter than <span id="36.hours">4</span> hours, you get extra <span id="36.bonus">+10</span> minutes.
 
 <a name="16" href="#16">§16</a>
 "Rate."
 To make money in any project you must define your hourly rate.
 To do that just say `rate` to Zerocrat. This rate is for marketing purpose
 only, since each project will [set](#13) their own rates for you.
-Your rate can only be between $16 and $256.
+Your rate can only be between <span id="16.min">$16</span> and <span id="16.max">$256</span>.
 You can use USD, EUR, GBP, or JPY, but all payments will be made in USD.
 
 <a name="20" href="#20">§20</a>
@@ -172,13 +174,13 @@ You can always check the status of any job, just say `status` to Zerocrat in the
 
 <a name="43" href="#43">§43</a>
 "Graduation."
-When your [reputation](#8) reaches +2048,
+When your [reputation](#8) reaches <span id="43.threshold">+2048</span>,
 Zerocrat will automaticatly set himself as your mentor.
 
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
-If your [reputation](#18) is over <del>2048</del> 512, you will see new [requests for proposal](https://www.0crat.com/rfps).
-You can "pay" 256 points for an email address of any RFP, contact them directly,
+If your [reputation](#18) is over <span id="40.min">+512</span>, you will see new [requests for proposal](https://www.0crat.com/rfps).
+You can "pay" <span id="40.price">256</span> points for an email address of any RFP, contact them directly,
 and bring them to Zerocrat; to do that just say `rfp` to Zerocrat.
 Remember, you are [not allowed](http://datum.zerocracy.com/pages/terms.html#non-solicitation)
 to work with them without Zerocrat.
@@ -207,7 +209,7 @@ You will be asked to review pull requests if you have `REV` role assigned.
 Be as critical as you can, as [this article](http://www.yegor256.com/2015/02/09/serious-code-reviewer.html) explains.
 Either you accept or reject the changes, inform the architect, right in the ticket&mdash;the
 architect will either merge the pull request or close it.
-In either case, you will be paid 15 minutes.
+In either case, you will be paid <span id="27.price">+15</span> minutes.
 
 ## Product Owner (<a name="PO"/>PO</a>)
 
@@ -216,8 +218,8 @@ In either case, you will be paid 15 minutes.
 The best way to recruit Zerocrat and develop your project with us is to
 find and hire an architect&mdash;one of our [best developers](https://www.0crat.com/gang).
 You have to fill out [the form](https://www.0crat.com/rfp),
-pay non-refundable $16, and wait until one of them [replies](#40).
-The RFP will expire and automatically disappear in 32 days.
+pay non-refundable <span id="41.price">$16</span>, and wait until one of them [replies](#40).
+The RFP will expire and automatically disappear in <span id="41.days">32</span> days.
 You can submit a new RFP only when the first one expires or is purchased.
 
 <a name="11" href="#11">§11</a>
@@ -268,7 +270,7 @@ All unused funds will be returned to you immediately per your request by
 
 <a name="23" href="#23">§23</a>
 "Management fee."
-Zerocracy charges a fixed management fee of USD 4.00 per each successfully
+Zerocracy charges a fixed management fee of <span id="23.price">$4</span> per each successfully
 completed job. If your project is not [linked](#17) to any private GitHub repositories
 this fee is waived.
 
@@ -311,7 +313,7 @@ You can remove a job from the scope by saying `out`.
 You can increase a budget of the job by setting its boost factor.
 Just say `boost 2x` (or `3x`, `5x`, etc.) to Zerocrat.
 This operation is against our principles of [micro-budgeting](http://www.yegor256.com/2018/01/09/micro-budgeting.html),
-that's why you get -10 [points](#18) every time you do this.
+that's why you get <span id="15.penalty">-10</span> [points](#18) every time you do this.
 
 <a name="19" href="#19">§19</a>
 "Assign."
@@ -319,12 +321,12 @@ You can manually assign any job to a user, just say `assign @yegor256`
 (where instead of `@yegor256` you put the GitHub login of the user) or
 assign the ticket to that user in your ticket tracking system.
 This operation is against our principles of automated task management,
-that's why you will get -5 [points](#18) every time you do this.
-If you assign a job to its reporter/creator, you will get an additional penalty of -15 [points](#18).
+that's why you will get <span id="19.penalty">-5</span> [points](#18) every time you do this.
+If you assign a job to its reporter/creator, you will get an additional penalty of <span id="19.self-penalty">-15</span> [points](#18).
 
 <a name="28" href="#28">§28</a>
 "Architect Review Bonus."
-You will earn 10 minutes for each pull request successfully merged.
+You will earn <span id="28.price">+10</span> minutes for each pull request successfully merged.
 It is recommended to use [Rultor](http://www.rultor.com) or a similar
 solution, which will allow only the architect to merge.
 
@@ -335,11 +337,11 @@ solution, which will allow only the architect to merge.
 If you have `QA` role in the project, you will be asked to review jobs after their completion.
 You have to review the job for its quality and report to Zerocrat: `quality is good`
 (or `bad`, or `acceptable`).
-You will be paid 8 minutes for the review, no matter what is your verdict.
+You will be paid <span id="30.price">+8</span> minutes for the review, no matter what is your verdict.
 
 <a name="31" href="#31">§31</a>
 "QA Bonus."
-Job performer will get an extra 5 minutes if QA reports `good` quality.
+Job performer will get an extra <span id="31.bonus">+5</span> minutes if QA reports `good` quality.
 If the quality is `bad`, there will be no payment to the job performer at all.
 
 <a name="42" href="#42">§42</a>
