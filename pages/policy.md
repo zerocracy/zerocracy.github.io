@@ -130,12 +130,12 @@ A job is completed when its ticket is [closed](http://www.yegor256.com/2014/04/1
 <a name="8" href="#8">§8</a>
 "Ten Days."
 If you don't complete a job in <span id="8.days">10</span> days Zerocrat _may_ take it away from you.
-You will get no money and <span id="8.penalty">-30</span> [points](#18) if this happens.
+You will get no money and a penalty as big as the the [budget](#4) of the job, if this happens.
 
 <a name="29" href="#29">§29</a>
 "Pay per Bug."
 Each time you report a new [bug](http://www.yegor256.com/2018/02/06/where-to-find-more-bugs.html)
-that becomes a job, you earn <span id="29.points">+15</span> minutes.
+that becomes a job, you earn <span id="29.price">+15</span> minutes.
 
 <a name="9" href="#9">§9</a>
 "Impediments."
@@ -176,6 +176,12 @@ You can always check the status of any job, just say `status` to Zerocrat in the
 "Graduation."
 When your [reputation](#8) reaches <span id="43.threshold">+2048</span>,
 Zerocrat will automaticatly set himself as your mentor.
+
+<a name="44" href="#44">§44</a>
+"Expel."
+When your [reputation](#8) drops lower than <span id="44.threshold">-256</span>,
+Zerocrat will automaticatly disconnect you from your mentor,
+clean out your reputation and you will have to [start over](#1).
 
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
@@ -270,7 +276,7 @@ All unused funds will be returned to you immediately per your request by
 
 <a name="23" href="#23">§23</a>
 "Management fee."
-Zerocracy charges a fixed management fee of <span id="23.price">$4</span> per each successfully
+Zerocracy charges a fixed management fee of <span id="23.fee">$4</span> per each successfully
 completed job. If your project is not [linked](#17) to any private GitHub repositories
 this fee is waived.
 
