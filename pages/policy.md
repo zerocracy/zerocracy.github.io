@@ -57,6 +57,7 @@ Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your mentor and will be responsible for helping you
 out in the system. Also, the mentor will receive financial bonuses from
 us for the money you earn.
+A mentor may have up to <span id="1.max-students">16</span> students.
 Fill [this form](https://www.0crat.com/join) if you don't know anyone yet.
 Once you are invited, your name and your performance metrics will be visible in the [Gang page](https://www.0crat.com/gang).
 
@@ -71,7 +72,7 @@ a raise of your [project rate](#13).
 <a name="33" href="#33">§33</a>
 "Sandbox."
 You can [apply](#2) to a project only if your [reputation](#18) is over
-<span id="33.min-live">256</span>.
+<span id="33.min-live">+256</span>.
 If it is lower, you can only apply to sandbox projects
 ([Cactoos](https://www.0crat.com/p/C63314D6Z),
 [jPeek](https://www.0crat.com/p/C7JGJ00DP),
@@ -91,9 +92,9 @@ You will be notified in job's ticket. The rules include, in order of importance:
   * Shortest average [job completion time](#26) wins
   * The emptiest agenda wins, but the maximum allowed size of agenda
     depends on your [reputation](#18):
-    <span id="3.jobs-1">3</span> jobs if less than <span id="3.rep-1">512</span> points,
-    <span id="3.jobs-2">8</span> if less than <span id="3.rep-2">2048</span>,
-    <span id="3.jobs-3">16</span> if less than <span id="3.rep-3">4096</span>,
+    <span id="3.jobs-1">3</span> jobs if less than <span id="3.rep-1">+512</span> points,
+    <span id="3.jobs-2">8</span> if less than <span id="3.rep-2">+2048</span>,
+    <span id="3.jobs-3">16</span> if less than <span id="3.rep-3">+4096</span>,
     <span id="3.jobs-4">24</span> otherwise.
   * The size of agenda doesn't matter if the job is a code review.
 
