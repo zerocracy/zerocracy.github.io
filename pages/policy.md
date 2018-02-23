@@ -170,6 +170,11 @@ To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 "Job Status."
 You can always check the status of any job, just say `status` to Zerocrat in the job ticket.
 
+<a name="43" href="#43">§43</a>
+"Graduation."
+When your [reputation](#8) reaches +2048,
+Zerocrat will automaticatly set himself as your mentor.
+
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
 If your [reputation](#18) is over <del>2048</del> 512, you will see new [requests for proposal](https://www.0crat.com/rfps).
