@@ -330,7 +330,7 @@ solution, which will allow only the architect to merge.
 If you have `QA` role in the project, you will be asked to review jobs after their completion.
 You have to review the job for its quality and report to Zerocrat: `quality is good`
 (or `bad`, or `acceptable`).
-You will be paid 15 minutes for the review, no matter what is your verdict.
+You will be paid 8 minutes for the review, no matter what is your verdict.
 
 <a name="31" href="#31">§31</a>
 "QA Bonus."
