@@ -186,8 +186,8 @@ clean out your reputation and you will have to [start over](#1).
 
 <a name="45" href="#45">§45</a>
 "Tuition fee."
-While you have a [mentor](#1), he/she gets <span id="45.share">8</span> cents
-of every dollar you make.
+While you have a [mentor](#1) (and it's [not Zerocrat](#43)),
+he/she gets <span id="45.share">8</span> cents of every dollar you make.
 
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
