@@ -184,6 +184,11 @@ When your [reputation](#8) drops lower than <span id="44.threshold">-256</span>,
 Zerocrat will automaticatly disconnect you from your mentor,
 clean out your reputation and you will have to [start over](#1).
 
+<a name="45" href="#45">§45</a>
+"Tuition fee."
+While you have a [mentor](#1), he/she gets <span id="45.share">8</span> cents
+of every dollar you make.
+
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
 If your [reputation](#18) is over <span id="40.min">+512</span>, you will see new [requests for proposal](https://www.0crat.com/rfps).
