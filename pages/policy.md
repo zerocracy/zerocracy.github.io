@@ -169,7 +169,7 @@ or
 [Litecoin](https://litecoin.org/).
 To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 When Zerocrat technically fails to pay (sometimes it happens), the payment amount will be added to our "debt" to you.
-We attempt to pay the debt once a day, if it's larger than $50.
+We attempt to pay the debt once a day, if it's larger than <span id="20.debt-threshold">$50</span>.
 
 <a name="32" href="#32">§32</a>
 "Job Status."
