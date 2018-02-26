@@ -52,13 +52,13 @@ You can talk to Zerocrat in:
 <a name="1" href="#1">§1</a>
 "Invite."
 To start working with us you have to be invited by someone we already know,
-whose [reputation](#18) is over <span id="1.min-rep">1024</span>.
+whose [reputation](#18) is over <span id="1.min-rep">+1024</span>.
 Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your mentor and will be responsible for helping you
 out in the system. Also, the mentor will receive financial bonuses from
 us for the money you earn.
 A mentor may have up to <span id="1.max-students">16</span> students.
-Fill [this form](https://www.0crat.com/join) if you don't know anyone yet.
+Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet.
 Once you are invited, your name and your performance metrics will be visible in the [Gang page](https://www.0crat.com/gang).
 
 <a name="2" href="#2">§2</a>
@@ -382,3 +382,5 @@ The quality of a job is `good' if all of the following requirements are met:
   * Comments were mostly about design problems, not cosmetic issues.
   * All problems found by the code reviewer were addressed by
     the pull request author.
+  * All impediments registered in the ticket have explanations of the
+    reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300)).
