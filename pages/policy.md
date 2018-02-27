@@ -173,6 +173,12 @@ To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 "Debt."
 When Zerocrat fails to pay, for any reason, the payment amount will be added to our "debt" to you.
 We attempt to pay the debt once a day, if it's larger than <span id="46.threshold">$50</span>.
+Possible reasons of not paying immedidately include, but not limited to:
+
+  * Network connection with the payment gateway is broken
+  * Temprorary issues with our accounts in PayPal, Coinbase, etc.
+  * The amount is smaller than <span id="46.min">$10</span> (to avoid big commissions)
+  * We are broken (just kidding)
 
 <a name="32" href="#32">§32</a>
 "Job Status."
