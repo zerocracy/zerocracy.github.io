@@ -200,6 +200,11 @@ clean out your reputation and you will have to [start over](#1).
 While you have a [mentor](#1) (and it's [not Zerocrat](#43)),
 he/she gets <span id="45.share">8</span> cents of every dollar you make.
 
+<a name="47" href="#47">§47</a>
+"Breakup."
+You can always terminate your relationship with a student, just say `breakup` to Zerocrat.
+You will get a penalty of <span id="47.penalty">-256</span> for this.
+
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
 If your [reputation](#18) is over <span id="40.min">+512</span>, you will see new [requests for proposal](https://www.0crat.com/rfps).
