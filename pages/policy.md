@@ -184,6 +184,10 @@ Possible reasons of not paying immedidately include, but not limited to:
 "Job Status."
 You can always check the status of any job, just say `status` to Zerocrat in the job ticket.
 
+<a name="48" href="#48">§48</a>
+"Only points."
+If you are not a member of a project, you can only earn [points](#8) there, not cash.
+
 <a name="43" href="#43">§43</a>
 "Graduation."
 When your [reputation](#8) reaches <span id="43.threshold">+2048</span>,
