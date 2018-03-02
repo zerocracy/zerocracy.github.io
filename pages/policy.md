@@ -127,6 +127,9 @@ You will get <span id="6.penalty">-15</span> [points](#18) for that.
 <a name="7" href="#7">§7</a>
 "Definition of Done."
 A job is completed when its ticket is [closed](http://www.yegor256.com/2014/04/15/definition-of-done.html).
+Until then only one person is responsible for it: the performer.
+It doesn't matter why the job is not finished, who its success depends on, where is the problem.
+The 0/100 rule is simple: it's either done or not.
 
 <a name="8" href="#8">§8</a>
 "Ten Days."
