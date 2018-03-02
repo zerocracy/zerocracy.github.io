@@ -403,3 +403,8 @@ The quality of a job is `good' if all of the following requirements are met:
     the pull request author.
   * All impediments registered in the ticket have explanations of the
     reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300)).
+
+When you find any rules violation, ask job performer to confirm that
+your complains are understood and he/she will try to avoid those mistakes
+in the future. Until you get a confirmation,
+[don't give](https://github.com/zerocracy/datum/issues/301) any quality mark.
