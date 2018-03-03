@@ -247,7 +247,7 @@ Either you accept or reject the changes, inform the architect, right in the tick
 architect will either merge the pull request or close it.
 In either case, you will be paid <span id="27.price">+15</span> minutes.
 
-## Product Owner (<a name="PO"/>PO</a>)
+## Product Owner (<a name="PO">PO</a>)
 
 <a name="41" href="#41">§41</a>
 "Submit RFP."
