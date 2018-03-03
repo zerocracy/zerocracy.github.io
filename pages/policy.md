@@ -54,12 +54,11 @@ You can talk to Zerocrat in:
 To start working with us you have to be invited by someone we already know,
 whose [reputation](#18) is over <span id="1.min-rep">+1024</span>.
 Ask that person to say `invite` with your GitHub login to Zerocrat.
-The person will be your mentor and will be responsible for helping you
-out in the system. Also, the mentor will receive financial bonuses from
-us for the money you earn.
-A mentor may have up to <span id="1.max-students">16</span> students.
+The person will be your "mentor" and will be responsible for helping you
+out in the system. A mentor may have up to <span id="1.max-students">16</span> students.
 Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet.
-Once you are invited, your name and your performance metrics will be visible in the [Gang page](https://www.0crat.com/gang).
+Once you are invited, your name and your performance metrics will be visible
+in the [Gang page](https://www.0crat.com/gang).
 
 <a name="2" href="#2">§2</a>
 "Apply."
