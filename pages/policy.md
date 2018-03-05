@@ -142,7 +142,7 @@ that becomes a job, you earn <span id="29.price">+15</span> minutes.
 
 <a name="9" href="#9">§9</a>
 "Impediments."
-You may declare impediments for a job by saying `waiting` to Zerocrat.
+You may declare impediments for a job by saying `wait` to Zerocrat.
 Until the job has impediments [Ten Days rule](#8)
 is not applicable to it.
 
