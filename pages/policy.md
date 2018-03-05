@@ -365,6 +365,12 @@ You will earn <span id="28.price">+10</span> minutes for each pull request succe
 It is recommended to use [Rultor](http://www.rultor.com) or a similar
 solution, which will allow only the architect to merge.
 
+<a name="49" href="#49">§49</a>
+"Extra."
+You can pay extra cash to any user by saying `pay` to Zerocrat.
+You will get a penalty of <span id="49.penalty">-60</span> points for this.
+The maximum you can pay in one go is <span id="49.max">120</span> minutes.
+
 ## Quality Assurance (<a name="QA">QA</a>)
 
 <a name="30" href="#30">§30</a>
