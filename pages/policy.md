@@ -263,11 +263,6 @@ You can submit a new RFP only when the first one expires or is purchased.
 To start working with us, you have to [invite](https://www.0crat.com/add_to_slack)
 Zerocrat to your Slack.
 
-<a name="12" href="#12">§12</a>
-"Bootstrap."
-To let Zerocrat manage your project you have to create a new Slack
-channel and add `@0crat` to it. Then, you should say `bootstrap` to Zerocrat.
-
 <a name="13" href="#13">§13</a>
 "Assign/Resign."
 Everybody who will be managed by Zerocrat must have roles in the project.
@@ -338,6 +333,14 @@ and they will
 earning project equity after each job [completion](#7).
 
 ## Architect (<a name="ARC">ARC</a>)
+
+<a name="12" href="#12">§12</a>
+"Bootstrap."
+To let Zerocrat manage your project you have to create a new Slack
+channel and add `@0crat` to it.
+Then, you should say `bootstrap` to Zerocrat.
+You need to have <span id="12.min">+1024< reputation points to be able to do that.
+You will be charged <span id="12.price">-256</span> [points](#8) for each project you bootstrap.
 
 <a name="14" href="#14">§14</a>
 "Scope In/Out."
