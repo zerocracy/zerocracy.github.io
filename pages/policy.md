@@ -293,11 +293,14 @@ instead of `yegor256/cactoos` you should put the coordinates of your GitHub repo
 You can add funds to the project by VISA or MasterCard via [Stripe](https://www.stripe.com)
 at the project web page. Fund will be used to pay programmers for job
 completion and to pay Zerocracy management [fee](#23).
+We will automatically recharge your card when the project runs out of funds.
+To disable recharing use [pause/activate](#24) option.
 
 <a name="22" href="#22">§22</a>
 "Refunds."
 All unused funds will be returned to you immediately per your request by
 [email](mailto:refund@zerocracy.com).
+Refunds will be mailed back to you as a cheque of a US bank.
 
 <a name="23" href="#23">§23</a>
 "Management fee."
@@ -307,8 +310,9 @@ this fee is waived.
 
 <a name="24" href="#24">§24</a>
 "Pause/Activate."
-To put Zerocrat on hold and make a project completely inactive, say `pause`. To return
-the project back to life say `pause off`.
+To put Zerocrat on hold and make a project completely inactive, say `pause`.
+To return the project back to life say `pause off`.
+This will disable [recharging](#22).
 
 <a name="25" href="#25">§25</a>
 "Destroy."
