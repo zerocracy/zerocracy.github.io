@@ -190,7 +190,7 @@ You can always check the status of any job, just say `status` to Zerocrat in the
 
 <a name="48" href="#48">§48</a>
 "Only points."
-If you are not a member of a project, you can only earn [points](#8) there, not cash.
+If you are not a member of a project, you can only earn [points](#18) there, not cash.
 
 <a name="43" href="#43">§43</a>
 "Graduation."
@@ -344,7 +344,7 @@ To let Zerocrat manage your project you have to create a new Slack
 channel and add `@0crat` to it.
 Then, you should say `bootstrap` to Zerocrat.
 You need to have <span id="12.min">1024+</span> reputation points to be able to do that.
-You will be charged <span id="12.price">-256</span> [points](#8) for each project you bootstrap.
+You will be charged <span id="12.price">-256</span> [points](#18) for each project you bootstrap.
 
 <a name="14" href="#14">§14</a>
 "Scope In/Out."
@@ -395,7 +395,7 @@ If the quality is `bad`, there will be no payment to the job performer at all.
 
 <a name="42" href="#42">§42</a>
 "QA Rules."
-The quality of a job is `good' if all of the following requirements are met:
+The quality of a job is "good" if all of the following requirements are met:
 
   * The formatting of a job description, as well as all messages inside it,
     follows [Github Markdown](https://help.github.com/articles/github-flavored-markdown/) style.
