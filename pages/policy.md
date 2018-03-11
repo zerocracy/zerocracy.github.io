@@ -33,6 +33,7 @@ and its basic principles:
   * [Bugs Are Welcome](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html)
   * [How to Cut Corners and Stay Cool](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html)
   * [It's Not a School!](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html)
+  * [Key Roles in a Software Project](http://www.yegor256.com/2016/07/10/software-project-roles.html)
 
 **<span style="color:red">Mistakes</span>**.
 Since Zerocrat is in beta-testing mode (planning to end on April 2, 2018),
@@ -182,7 +183,7 @@ Possible reasons of not paying immedidately include, but not limited to:
   * Network connection with the payment gateway is broken
   * Temprorary issues with our accounts in PayPal, Coinbase, etc.
   * The amount is smaller than <span id="46.min">$10</span> (to avoid big commissions)
-  * We are broken (just kidding)
+  * We are broke (just kidding)
 
 <a name="32" href="#32">§32</a>
 "Job Status."
