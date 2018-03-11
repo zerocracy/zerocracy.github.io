@@ -391,11 +391,6 @@ You have to review the job for its quality and report to Zerocrat: `quality is g
 (or `bad`, or `acceptable`).
 You will be paid <span id="30.price">+8</span> minutes for the review, no matter what is your verdict.
 
-<a name="31" href="#31">§31</a>
-"QA Bonus."
-Job performer will get an extra <span id="31.bonus">+5</span> minutes if QA reports `good` quality.
-If the quality is `bad`, there will be no payment to the job performer at all.
-
 <a name="42" href="#42">§42</a>
 "QA Rules."
 The quality of a job is "good" if all of the following requirements are met:
@@ -430,6 +425,11 @@ in the future. Until you get a confirmation,
 The quality of a job is "bad" if any of the following happens
 (these violations we can't forgive):
 
-  * The code reviewer didn't find any issues in the pull request and just accepted it.
+  * The code reviewer didn't find any issues in the pull request and just accepted it;
   * The job is closed without a solution provided.
+
+<a name="31" href="#31">§31</a>
+"QA Bonus."
+Job performer will get an extra <span id="31.bonus">+5</span> minutes if QA reports `good` quality.
+If the quality is `bad`, there will be no payment to the job performer at all.
 
