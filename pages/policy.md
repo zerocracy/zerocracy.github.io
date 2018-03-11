@@ -182,10 +182,10 @@ We attempt to pay the debt once a day, if it's larger than <span id="46.threshol
 or older than <span id="46.days">20</span> days.
 Possible reasons of not paying immedidately include, but not limited to:
 
-  * Network connection with the payment gateway is broken
-  * Temprorary issues with our accounts in PayPal, Coinbase, etc.
-  * The amount is smaller than <span id="46.min">$10</span> (to avoid big commissions)
-  * We are broke (just kidding)
+  * Network connection with the payment gateway is broken;
+  * Temprorary issues with our accounts in PayPal, Coinbase, etc.;
+  * The amount is smaller than <span id="46.min">$10</span> (to avoid big commissions);
+  * We are broke (just kidding).
 
 <a name="32" href="#32">§32</a>
 "Job Status."
@@ -250,7 +250,7 @@ Either you accept or reject the changes, inform the architect, right in the tick
 architect will either merge the pull request or close it.
 In either case, you will be paid <span id="27.price">+15</span> minutes.
 
-## Product Owner (<a name="PO"/>PO</a>)
+## Product Owner (<a name="PO">PO</a>)
 
 <a name="41" href="#41">§41</a>
 "Submit RFP."
@@ -401,24 +401,24 @@ If the quality is `bad`, there will be no payment to the job performer at all.
 The quality of a job is "good" if all of the following requirements are met:
 
   * The formatting of a job description, as well as all messages inside it,
-    follows [Github Markdown](https://help.github.com/articles/github-flavored-markdown/) style.
+    follows [Github Markdown](https://help.github.com/articles/github-flavored-markdown/) style;
   * Messages in a job
     [always](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#4-avoid-noiseaddress-your-comments)
-    start with a name of a user they are addressed to.
+    start with a name of a user they are addressed to;
   * The job is closed only when the reported problem is solved,
-    [see](http://www.yegor256.com/2015/02/12/top-down-design.html).
-  * Some of ticket messages must mention all pull requests where the problem was actually fixed.
-  * Problem reporter and problem solver are two different persons,
-    [see](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#1.-keep-it-one-on-one).
+    [see](http://www.yegor256.com/2015/02/12/top-down-design.html);
+  * Some of ticket messages must mention all pull requests where the problem was actually fixed;
+  * Problem reporter and problem solver are two different persons;
+    [see](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#1.-keep-it-one-on-one);
   * Ticket title and description clearly state what is broken and what kind of fix is expected,
-    [see](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#5.-report-when-it-is-broken).
-  * The ticket describes one specific problem and provides a single solution.
-  * Pull request title explains the problem it is fixing.
+    [see](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#5.-report-when-it-is-broken);
+  * The ticket describes one specific problem and provides a single solution;
+  * Pull request title explains the problem it is fixing;
   * Pull request description explains the solution proposed and
-    contains a link to the original ticket it is related to ([discuss](https://github.com/zerocracy/datum/issues/296)).
-  * The code reviewer found at least three problems in the code ([discuss](https://github.com/zerocracy/datum/issues/294)).
-  * Comments were mostly about design problems, not cosmetic issues.
-  * All problems found by the code reviewer were addressed by the pull request author.
+    contains a link to the original ticket it is related to ([discuss](https://github.com/zerocracy/datum/issues/296));
+  * The code reviewer found at least three problems in the code ([discuss](https://github.com/zerocracy/datum/issues/294));
+  * Comments were mostly about design problems, not cosmetic issues;
+  * All problems found by the code reviewer were addressed by the pull request author;
   * All impediments registered in the ticket have explanations of the
     reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300)).
 
