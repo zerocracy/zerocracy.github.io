@@ -40,7 +40,7 @@ Since Zerocrat is in beta-testing mode (planning to end on April 2, 2018),
 it may sometimes make mistakes, which may lead to missed payments,
 incorrect calculations of your reputation, broken communications,
 corrupted data and so on. We may not guarantee its stability during the
-beta-testing period. We will **NOT** be able to cover any losses that
+beta-testing period. We may **NOT** be able to cover the losses that
 may occur because of Zerocrat's mistakes.
 
 ## Developer (<a name="DEV">DEV</a>)
