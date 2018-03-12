@@ -74,13 +74,11 @@ a raise of your [project rate](#13).
 "Sandbox."
 You can [apply](#2) to a project only if your [reputation](#18) is over
 <span id="33.min-live">+256</span>.
-If it is lower, you can only apply to sandbox projects
-([Cactoos](https://www.0crat.com/p/C63314D6Z),
-[jPeek](https://www.0crat.com/p/C7JGJ00DP),
-and [PDD](https://www.0crat.com/p/C3T46CUJJ))
+If it is lower, you can only apply to [sandbox](https://www.0crat.com/board) projects
 and your highest allowed rate is <span id="33.max-sandbox-rate">$16</span>.
 You can't apply to a sandbox project if your reputation is over <span id="33.max-sandbox-rep">+1024</span>.
 You will be automatically removed from a sandbox project once your reputation is over <span id="33.sandbox-rep-threshold">+1024</span>.
+You will automatically get `REV` role in a sandbox project when your reputation is over <span id="33.rev-rep">+256</span>.
 
 <a name="3" href="#3">§3</a>
 "Election."
