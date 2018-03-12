@@ -387,7 +387,7 @@ The maximum you can pay in one go is <span id="49.max">120</span> minutes.
 <a name="30" href="#30">§30</a>
 "Quality Review."
 If you have `QA` role in the project, you will be asked to review jobs after their completion.
-You have to review the job for its quality and report to Zerocrat: `quality is good`
+You have to review the job for its quality and report to Zerocrat: `quality good`
 (or `bad`, or `acceptable`).
 You will be paid <span id="30.price">+8</span> minutes for the review, no matter what is your verdict.
 
