@@ -413,7 +413,8 @@ The quality of a job is "good" if all of the following requirements are met:
   * Comments were mostly about design problems, not cosmetic issues;
   * All problems found by the code reviewer were addressed by the pull request author;
   * All impediments registered in the ticket have explanations of the
-    reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300)).
+    reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300));
+  * All commit messages have links to issues ([discuss](https://github.com/zerocracy/datum/issues/295)).
 
 When you find any rules violation, ask job performer to confirm that
 your complains are understood and he/she will try to avoid those mistakes
