@@ -87,6 +87,7 @@ and are not on [vacation](#38).
 You will be notified in job's ticket. The rules include, in order of importance:
 
   * The highest [reputation](#18) wins;
+  * No jobs will be assigned if [reputation](#18) is below <span id="3.low-threshold">-128</span>;
   * Lowest [project rate](#16) wins;
   * Shortest average [job completion time](#26) wins;
   * The emptiest agenda wins;
