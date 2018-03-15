@@ -102,6 +102,11 @@ a purpose other than those that are set out in these Terms. We never
 provide for free or sell any information about you or your projects
 to any third-parties.
 
+<a name="pgp" href="#pgp">PGP</a>.
+We sign all PDF documents with
+[this](https://pgp.mit.edu/pks/lookup?op=get&search=0xE5417839A3DB7B58581DAA1DBB6A03BA0E9C2128)
+and only this PGP key (it has no expiration date).
+
 <a name="law" href="#law">Law</a>.
 These Terms shall be governed and construed in accordance with
 the laws of the State of California applicable to contracts made
