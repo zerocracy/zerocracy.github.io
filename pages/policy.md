@@ -420,7 +420,8 @@ The quality of a job is "good" if all of the following requirements are met:
 When you find any rules violation, ask job performer to confirm that
 your complains are understood and he/she will try to avoid those mistakes
 in the future. Until you get a confirmation,
-[don't give](https://github.com/zerocracy/datum/issues/301) any quality mark.
+[don't give](https://github.com/zerocracy/datum/issues/301) any quality mark;
+don't wait for more than five days though.
 
 The quality of a job is "bad" if any of the following happens
 (these violations we can't forgive):
