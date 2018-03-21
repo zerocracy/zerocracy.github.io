@@ -152,7 +152,8 @@ is not applicable to it.
 "Speed Bonus."
 Zerocracy measures the time interval between the moment
 a job is assigned to you and the moment it goes out of scope.
-If this interval is shorter than <span id="36.hours">4</span> hours, you get extra <span id="36.bonus">+10</span> minutes.
+If this interval is shorter than <span id="36.hours">48</span> hours,
+you get extra <span id="36.bonus">+5</span> minutes.
 
 <a name="16" href="#16">§16</a>
 "Rate."
