@@ -24,6 +24,7 @@ they explain our management philosophy
 (based on [XDSD](http://www.xdsd.org))
 and its basic principles:
 
+  * [Zerocracy: A Project Manager That Never Sleeps](http://www.yegor256.com/2018/03/21/zerocracy-announcement.html)
   * [Stop Chatting, Start Coding](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
   * [How Micro Is Your Tasking?](http://www.yegor256.com/2017/11/28/microtasking.html)
   * [How XDSD Is Different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html)
