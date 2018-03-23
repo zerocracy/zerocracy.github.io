@@ -343,6 +343,11 @@ and they will
 [automatically](http://www.yegor256.com/2018/02/13/micro-vesting.html) start
 earning project equity after each job [completion](#7).
 
+<a name="50" href="#50">§50</a>
+"Contribution."
+Anyone can make a non-refundable one-time contribution to your project, if you give them
+the URL `https://www.0crat.com/contribute/PID` where `PID` is your project ID.
+
 ## Architect (<a name="ARC">ARC</a>)
 
 <a name="12" href="#12">§12</a>
