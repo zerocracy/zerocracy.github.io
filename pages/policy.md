@@ -241,6 +241,7 @@ You will still have to finish the jobs assigned to you in the project.
 If you [change](https://help.github.com/articles/changing-your-github-username/)
 your GitHub name, your Zerocrat account will be lost.
 You will have to create a new one from scratch.
+[Why?](https://github.com/zerocracy/datum/issues/274)
 
 ## Code Reviewer (<a name="REV">REV</a>)
 
