@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.3.3
+cache: bundler
+branches:
+  only:
+    - master
+script:
+  - echo 'No script yet'
+
