@@ -347,6 +347,7 @@ earning project equity after each job [completion](#7).
 "Contribution."
 Anyone can make a non-refundable one-time contribution to your project, if you give them
 the URL `https://www.0crat.com/contrib/PID` where `PID` is your project ID.
+Your project has to be [published](#26).
 
 ## Architect (<a name="ARC">ARC</a>)
 
