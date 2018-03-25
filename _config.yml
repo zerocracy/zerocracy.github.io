@@ -17,6 +17,7 @@ exclude:
   - Gemfile.lock
   - Gemfile
   - LICENSE.txt
+  - .travis.yml
 
 plugins:
   - jekyll-feed
