@@ -331,7 +331,8 @@ project say `destroy` and then [kick off](https://get.slack.help/hc/en-us/articl
 "Publish."
 To attract programmers to your project, you can publish it on the
 [Board](https://www.0crat.com/board); just say `publish on` to Zerocrat in order to do it.
-You will be charged <span id="26.price">-256</span> [points](#17) for this.
+Your [reputation](#18) has to be over <span id="26.min-rep">+1024</span> and
+you will be charged <span id="26.price">-256</span> [points](#17) for this.
 When your project is published, its statistical information will be visible in the Web.
 You can unpublish it anytime, just say `publish off`.
 
