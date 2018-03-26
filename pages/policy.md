@@ -393,6 +393,13 @@ You can pay extra cash to any user by saying `pay` to Zerocrat.
 You will get a penalty of <span id="49.penalty">-60</span> points for this.
 The maximum you can pay in one go is <span id="49.max">120</span> minutes.
 
+<a name="51" href="#51">§51</a>
+"Hiring."
+If your [reputation](#18) is over <span id="51.min">+1024</span>
+you can invite programmers to your project by announcing a job
+(you can find a link at your project dashboard).
+Each announcement will cost you <span id="51.price">-128</span> reputation [points](#18).
+
 ## Quality Assurance (<a name="QA">QA</a>)
 
 <a name="30" href="#30">§30</a>
