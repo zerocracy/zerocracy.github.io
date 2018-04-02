@@ -55,7 +55,7 @@ and pays <span id="1.price">128</span> [points](#18) for each new invitation.
 Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet
 or seek help in [our Telegram group](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 Once you are invited, your name and your performance metrics will be visible
-in the [Gang page](https://www.0crat.com/gang).
+in the [Team page](https://www.0crat.com/team).
 
 <a name="2" href="#2">§2</a>
 "Apply."
@@ -255,7 +255,8 @@ In either case, you will be paid <span id="27.price">+15</span> minutes.
 The best way to recruit Zerocrat and develop your project with us is to
 find and hire an architect&mdash;one of our [best developers](https://www.0crat.com/gang).
 You have to fill out [the form](https://www.0crat.com/rfp),
-pay non-refundable <span id="41.price">$16</span>, and wait until one of them [replies](#40).
+pay non-refundable <del>$64</del> <span id="41.price" style="color:red">$16</span>,
+and wait until one of them [replies](#40).
 The RFP will expire and automatically disappear in <span id="41.days">32</span> days.
 You can submit a new RFP only when the first one expires or is purchased.
 
