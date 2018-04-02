@@ -55,11 +55,11 @@ You can talk to Zerocrat in:
 <a name="1" href="#1">§1</a>
 "Invite."
 To start working with us you have to be invited by someone we already know,
-whose [reputation](#18) is over <span id="1.min-rep">+1024</span>.
+whose [reputation](#18) is over <del>+1024</del> <span id="1.min-rep" style="color:red">+256</span>.
 Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your "mentor" and will be responsible for helping you
 out in the system. A mentor may have up to <span id="1.max-students">16</span> students
-and pays <span id="1.price">-128</span> [points](#18) for each new invitation.
+and pays <span id="1.price">128</span> [points](#18) for each new invitation.
 Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet
 or seek help in [our Telegram group](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 Once you are invited, your name and your performance metrics will be visible
@@ -126,7 +126,7 @@ In exceptional situations, you should ask project architect to boost your job.
 <a name="6" href="#6">§6</a>
 "Refusal."
 You may refuse to complete any job by saying `refuse`.
-You will get <span id="6.penalty">-15</span> [points](#18) for that.
+You will get <span id="6.penalty">15</span> [points](#18) for that.
 
 <a name="7" href="#7">§7</a>
 "Definition of Done."
@@ -217,12 +217,14 @@ he/she gets <span id="45.share">8</span> cents of every dollar you make.
 <a name="47" href="#47">§47</a>
 "Breakup."
 You can always terminate your relationship with a student, just say `breakup` to Zerocrat.
-You will get a penalty of <span id="47.penalty">-256</span> for this.
+You will get a penalty of <span id="47.penalty">256</span> for this.
 
 <a name="40" href="#40">§40</a>
 "Reply to RFP."
-If your [reputation](#18) is over <span id="40.min">+512</span>, you will see new [requests for proposal](https://www.0crat.com/rfps).
-You can "pay" <span id="40.price">256</span> points for an email address of any RFP, contact them directly,
+If your [reputation](#18) is over <del>+512</del> <span id="40.min" style="color:red">+128</span>,
+you will see new [requests for proposal](https://www.0crat.com/rfps).
+You can "pay" <del>256</del> <span id="40.price" style="color:red">64</span>
+points for an email address of any RFP, contact them directly,
 and bring them to Zerocrat; to do that just say `rfp` to Zerocrat.
 Remember, you are [not allowed](http://datum.zerocracy.com/pages/terms.html#non-solicitation)
 to work with them without Zerocrat.
@@ -333,7 +335,7 @@ project say `destroy` and then [kick off](https://get.slack.help/hc/en-us/articl
 To attract programmers to your project, you can publish it on the
 [Board](https://www.0crat.com/board); just say `publish on` to Zerocrat in order to do it.
 Your [reputation](#18) has to be over <span id="26.min-rep">+1024</span> and
-you will be charged <span id="26.price">-32</span> [points](#17) for this.
+you will be charged <span id="26.price">32</span> [points](#17) for this.
 When your project is published, its statistical information will be visible in the Web.
 You can unpublish it anytime, just say `publish off`.
 
@@ -359,7 +361,8 @@ To let Zerocrat manage your project you have to create a new Slack
 channel and add `@0crat` to it.
 Then, you should say `bootstrap` to Zerocrat.
 You need to have at least <span id="12.min">+1024</span> reputation points to be able to do that.
-You will be charged <span id="12.price">-256</span> [points](#18) for each project you bootstrap.
+You will be charged <span id="12.price">256</span>
+[points](#18) for each project you bootstrap.
 
 <a name="14" href="#14">§14</a>
 "Scope In/Out."
@@ -371,7 +374,8 @@ You can remove a job from the scope by saying `out`.
 You can increase a budget of the job by setting its boost factor.
 Just say `boost 2x` (or `3x`, `5x`, etc.) to Zerocrat.
 This operation is against our principles of [micro-budgeting](http://www.yegor256.com/2018/01/09/micro-budgeting.html),
-that's why you get <span id="15.penalty">-10</span> [points](#18) every time you do this.
+that's why you get <span id="15.penalty">10</span> [points](#18)
+every time you do this.
 
 <a name="19" href="#19">§19</a>
 "Assign."
@@ -379,8 +383,9 @@ You can manually assign any job to a user, just say `assign @yegor256`
 (where instead of `@yegor256` you put the GitHub login of the user) or
 assign the ticket to that user in your ticket tracking system.
 This operation is against our principles of automated task management,
-that's why you will get <span id="19.penalty">-5</span> [points](#18) every time you do this.
-If you assign a job to its reporter/creator, you will get an additional penalty of <span id="19.self-penalty">-15</span> [points](#18).
+that's why you will get <span id="19.penalty">5</span> [points](#18) every time you do this.
+If you assign a job to its reporter/creator, you will get an additional penalty of
+<span id="19.self-penalty">15</span> [points](#18).
 
 <a name="28" href="#28">§28</a>
 "Architect Review Bonus."
@@ -391,7 +396,7 @@ solution, which will allow only the architect to merge.
 <a name="49" href="#49">§49</a>
 "Extra."
 You can pay extra cash to any user by saying `pay` to Zerocrat.
-You will get a penalty of <span id="49.penalty">-60</span> points for this.
+You will get a penalty of <span id="49.penalty">60</span> points for this.
 The maximum you can pay in one go is <span id="49.max">120</span> minutes.
 
 <a name="51" href="#51">§51</a>
@@ -399,7 +404,8 @@ The maximum you can pay in one go is <span id="49.max">120</span> minutes.
 If your [reputation](#18) is over <span id="51.min">+1024</span>
 you can invite programmers to your project by announcing a job
 (you can find a link at your project dashboard).
-Each announcement will cost you <span id="51.price">-128</span> reputation [points](#18).
+Each announcement will cost you
+<span id="51.price">128</span> reputation [points](#18).
 
 ## Quality Assurance (<a name="QA">QA</a>)
 
