@@ -17,7 +17,7 @@ If you want to change something in the Policy or simply
 suggest an improvement, please submit a ticket
 [here](https://github.com/zerocracy/zerocracy.github.io/issues).
 If you want to discuss the Policy or your troubles with the bot,
-please join this [Telegram chat](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A).
+please join this [Telegram chat](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 
 We recommend you to read these articles first;
 they explain our management philosophy
@@ -60,7 +60,8 @@ Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your "mentor" and will be responsible for helping you
 out in the system. A mentor may have up to <span id="1.max-students">16</span> students
 and pays <span id="1.price">-128</span> [points](#18) for each new invitation.
-Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet.
+Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet
+or seek help in [our Telegram group](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 Once you are invited, your name and your performance metrics will be visible
 in the [Gang page](https://www.0crat.com/gang).
 
