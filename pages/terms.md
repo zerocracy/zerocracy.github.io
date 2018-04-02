@@ -24,14 +24,6 @@ The following red paragraphs are here only for the period of beta testing,
 which we started on January 5, 2018. We are planning to launch the
 first stable version in March 2018.
 
-**<span style="color:red">Mistakes</span>**.
-Since Zerocrat is in beta-testing mode (planning to end on April 2, 2018),
-it may sometimes make mistakes, which may lead to missed payments,
-incorrect calculations of your reputation, broken communications,
-corrupted data and so on. We may not guarantee its stability during the
-beta-testing period. We may **NOT** be able to cover the losses that
-may occur because of Zerocrat's mistakes.
-
 <hr style="width:500px;margin-left:auto;margin-right:auto"/>
 
 <a name="kyc" href="#kyc">Identification</a>.

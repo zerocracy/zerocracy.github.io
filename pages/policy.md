@@ -36,14 +36,6 @@ and its basic principles:
   * [It's Not a School!](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html)
   * [Key Roles in a Software Project](http://www.yegor256.com/2016/07/10/software-project-roles.html)
 
-**<span style="color:red">Mistakes</span>**.
-Since Zerocrat is in beta-testing mode (planning to end on April 2, 2018),
-it may sometimes make mistakes, which may lead to missed payments,
-incorrect calculations of your reputation, broken communications,
-corrupted data and so on. We may not guarantee its stability during the
-beta-testing period. We may **NOT** be able to cover the losses that
-may occur because of Zerocrat's mistakes.
-
 ## Developer (<a name="DEV">DEV</a>)
 
 You can talk to Zerocrat in:
