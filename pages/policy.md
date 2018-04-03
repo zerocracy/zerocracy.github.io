@@ -308,7 +308,8 @@ Refunds will be mailed back to you as a cheque of a US bank.
 "Management fee."
 Zerocracy charges a fixed management fee of <span id="23.fee">$4</span> per each successfully
 completed job. If your project is not [linked](#17) to any private GitHub repositories
-this fee is waived.
+this fee is waived. If the fee is waived the ledger of the project will
+be publicly visible online.
 
 <a name="24" href="#24">§24</a>
 "Pause/Activate."
