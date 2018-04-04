@@ -253,7 +253,7 @@ In either case, you will be paid <span id="27.price">+15</span> minutes.
 <a name="41" href="#41">§41</a>
 "Submit RFP."
 The best way to recruit Zerocrat and develop your project with us is to
-find and hire an architect&mdash;one of our [best developers](https://www.0crat.com/gang).
+find and hire an architect&mdash;one of our [best developers](https://www.0crat.com/team).
 You have to fill out [the form](https://www.0crat.com/rfp),
 pay non-refundable <del>$64</del> <span id="41.price" style="color:red">$16</span>,
 and wait until one of them [replies](#40).
