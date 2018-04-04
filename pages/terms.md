@@ -20,12 +20,6 @@ and
 [fund](http://datum.zerocracy.com/pages/policy.html#21)
 projects are referred to as "Product Owners."
 
-The following red paragraphs are here only for the period of beta testing,
-which we started on January 5, 2018. We are planning to launch the
-first stable version in March 2018.
-
-<hr style="width:500px;margin-left:auto;margin-right:auto"/>
-
 <a name="kyc" href="#kyc">Identification</a>.
 Before making any monetary transaction to a Contributor, we verify
 their identity via one of our partners, like [Yoti](http://www.yoti.com).
