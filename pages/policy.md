@@ -343,9 +343,11 @@ earning project equity after each job [completion](#7).
 
 <a name="50" href="#50">§50</a>
 "Contribution."
-Anyone can make a non-refundable one-time contribution to your project, if you give them
+Anyone can make a non-refundable one-time
+[contribution](http://www.yegor256.com/2018/04/03/donations-via-zerocracy.html)
+to your project, if you give them
 the URL `https://www.0crat.com/contrib/PID` where `PID` is your project ID.
-Your project has to be [published](#26).
+Your project has to be [published](#26) and [fee-free](#23).
 
 ## Architect (<a name="ARC">ARC</a>)
 
