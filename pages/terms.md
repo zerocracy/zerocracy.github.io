@@ -113,4 +113,6 @@ by these Terms, and/or applicable law, or the Contributor's or
 its employees' or personnel's negligence or willful misconduct.
 
 <a name="changes" href="#changes">Changes</a>.
-These Terms may be modified by Zerocracy at any time.
+These Terms may be
+[modified](https://github.com/zerocracy/zerocracy.github.io/commits/master)
+by Zerocracy at any time.
