@@ -30,12 +30,11 @@ To make a project manageable by a computer, we use a strict
 [eXtremely Distributed Software Development](http://www.xdsd.org) methodology.
 
 [**No Chats**](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html):
-programmers don't talk to each other in chats or meetings, everything
-happens in GitHub tickets.
+programmers don't talk to each other anywhere outside of GitHub tickets.
 
 [**Microtasking**](http://www.yegor256.com/2017/11/28/microtasking.html):
 each task assigned to a programmer has a [fixed](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
-[budget](http://www.zerocracy.com/policy.html#4).
+[budget](http://www.zerocracy.com/policy.html#4) of less than an hour.
 
 [**No Excuses**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
 we pay a fixed budget when the task is
@@ -50,7 +49,7 @@ we don't teach programmers and never invest anything in their education;
 instead, we invest into project documentation and source code.
 
 [**Laziness**](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html):
-we ask programmers to be as lazy as possible and cut corners
+we encourage programmers to cut corners
 [wherever](http://www.yegor256.com/2018/03/06/speed-vs-quality.html)
 they can.
 
