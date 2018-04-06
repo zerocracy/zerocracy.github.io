@@ -43,8 +43,7 @@ we pay a fixed budget when the task is
 no matter how much time a programmer spent on it; we don't reimburse any other expenses.
 
 [**Individualism**](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html):
-each task has an assignee who is fully responsible for completing
-the task.
+each task has an assignee who is fully responsible for its completion.
 
 [**No Help**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):
 we don't teach programmers and never invest anything in their education;
@@ -62,8 +61,8 @@ encourage programmers to find as many of them as possible.
 We realize that our approach is very much
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
 traditional methods of management. In our experience
-our approach gives a lot of benefits to
-all project [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.html):
+our way of managing projects gives a lot of benefits to
+all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.html):
 
   * Programmers are more [motivated](http://www.yegor256.com/2017/09/19/what-motivates-me.html)
   * Costs are [lower](http://www.yegor256.com/2014/04/11/cost-of-loc.html)
