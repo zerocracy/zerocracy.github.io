@@ -27,37 +27,37 @@ suggest to <del>replace</del> empower a human project manager with
 a hosted chat bot.
 To make a project manageable by a computer, we use a strict
 [Policy](/policy.html) of work, which derives the following principles from
-[eXtremely Distributed Software Development](http://www.xdsd.org) methodology:
+[eXtremely Distributed Software Development](http://www.xdsd.org) methodology.
 
-  * [No chats](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html):
-    programmers don't talk to each other in chats or meetings, everything
-    happens in GitHub tickets.
+[**No Chats**](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html):
+programmers don't talk to each other in chats or meetings, everything
+happens in GitHub tickets.
 
-  * [Microtasking](http://www.yegor256.com/2017/11/28/microtasking.html):
-    each task assigned to a programmer has a fixed
-    [budget](http://www.yegor256.com/2018/01/09/micro-budgeting.html) of 30 minutes.
+[**Microtasking**](http://www.yegor256.com/2017/11/28/microtasking.html):
+each task assigned to a programmer has a fixed
+[budget](http://www.yegor256.com/2018/01/09/micro-budgeting.html) of 30 minutes.
 
-  * [No excuses](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
-    we pay a fixed budget when the task is
-    [finished](http://www.yegor256.com/2014/04/15/definition-of-done.html),
-    no matter how much time a programmer spent on it; we don't reimburse any other expenses.
+[**No Excuses**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
+we pay a fixed budget when the task is
+[finished](http://www.yegor256.com/2014/04/15/definition-of-done.html),
+no matter how much time a programmer spent on it; we don't reimburse any other expenses.
 
-  * [Individualism](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html):
-    each task has an assignee who is fully responsible for completing
-    the task.
+[**Individualism**](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html):
+each task has an assignee who is fully responsible for completing
+the task.
 
-  * [No help](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):
-    we don't teach programmers and never invest anything in their education;
-    instead, we invest into project documentation and source code.
+[**No Help**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):
+we don't teach programmers and never invest anything in their education;
+instead, we invest into project documentation and source code.
 
-  * [Laziness](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html):
-    we ask programmers to be as lazy as possible and cut corners
-    [wherever](http://www.yegor256.com/2018/03/06/speed-vs-quality.html)
-    they can.
+[**Laziness**](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html):
+we ask programmers to be as lazy as possible and cut corners
+[wherever](http://www.yegor256.com/2018/03/06/speed-vs-quality.html)
+they can.
 
-  * [Pay per bug](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):
-    we pay a fixed 15 minutes fee for each bug found and
-    encourage programmers to find as many of them as possible.
+[**Pay Per Bug**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):
+we pay a fixed 15 minutes fee for each bug found and
+encourage programmers to find as many of them as possible.
 
 We realize that our approach is very much
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
