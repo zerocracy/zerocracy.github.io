@@ -19,22 +19,7 @@ suggest an improvement, please submit a ticket
 If you want to discuss the Policy or your troubles with the bot,
 please join this [Telegram chat](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 
-We recommend you to read these articles first;
-they explain our management philosophy
-(based on [XDSD](http://www.xdsd.org))
-and its basic principles:
-
-  * [Zerocracy: A Project Manager That Never Sleeps](http://www.yegor256.com/2018/03/21/zerocracy-announcement.html)
-  * [Stop Chatting, Start Coding](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
-  * [How Micro Is Your Tasking?](http://www.yegor256.com/2017/11/28/microtasking.html)
-  * [How XDSD Is Different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html)
-  * [Definition of Done](http://www.yegor256.com/2014/04/15/definition-of-done.html)
-  * [No Obligations](http://www.yegor256.com/2014/04/13/no-obligations-principle.html)
-  * [Five Principles of Bug Tracking](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html)
-  * [Bugs Are Welcome](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html)
-  * [How to Cut Corners and Stay Cool](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html)
-  * [It's Not a School!](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html)
-  * [Key Roles in a Software Project](http://www.yegor256.com/2016/07/10/software-project-roles.html)
+Read this first: [What Is Zerocracy?](/toc.html)
 
 ## Developer (<a name="DEV">DEV</a>)
 
