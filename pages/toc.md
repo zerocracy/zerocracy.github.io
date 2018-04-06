@@ -33,20 +33,18 @@ To make a project manageable by a computer, we use a strict
 programmers don't talk to each other anywhere outside of GitHub tickets.
 
 [**Microtasking**](http://www.yegor256.com/2017/11/28/microtasking.html):
-each task assigned to a programmer has a [fixed](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
-[budget](http://www.zerocracy.com/policy.html#4) of less than an hour.
+each task has a [fixed](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
+[budgets](http://www.zerocracy.com/policy.html#4) of less than an hour.
 
 [**No Excuses**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
-we pay a fixed budget when the task is
-[finished](http://www.yegor256.com/2014/04/15/definition-of-done.html),
-no matter how much time a programmer spent on it; we don't reimburse any other expenses.
+we pay only for deliverables when a task is
+[finished](http://www.yegor256.com/2014/04/15/definition-of-done.html).
 
 [**Individualism**](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html):
 each task has an assignee who is fully responsible for its completion.
 
 [**No Help**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):
-we don't teach programmers and never invest anything in their education;
-instead, we invest into project documentation and source code.
+we don't teach programmers and don't help them.
 
 [**Laziness**](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html):
 we encourage programmers to cut corners
@@ -54,8 +52,7 @@ we encourage programmers to cut corners
 they can.
 
 [**Pay Per Bug**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):
-we pay a [fixed fee](http://www.zerocracy.com/policy.html#29) for each bug found and
-encourage programmers to find as many of them as possible.
+we encourage programmers to find bugs and [pay for them](http://www.zerocracy.com/policy.html#29).
 
 We realize that our approach is very much
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
