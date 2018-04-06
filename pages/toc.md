@@ -34,8 +34,8 @@ programmers don't talk to each other in chats or meetings, everything
 happens in GitHub tickets.
 
 [**Microtasking**](http://www.yegor256.com/2017/11/28/microtasking.html):
-each task assigned to a programmer has a fixed
-[budget](http://www.yegor256.com/2018/01/09/micro-budgeting.html) of 30 minutes.
+each task assigned to a programmer has a [fixed](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
+[budget](http://www.zerocracy.com/policy.html#4).
 
 [**No Excuses**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
 we pay a fixed budget when the task is
@@ -55,7 +55,7 @@ we ask programmers to be as lazy as possible and cut corners
 they can.
 
 [**Pay Per Bug**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):
-we pay a fixed 15 minutes fee for each bug found and
+we pay a [fixed fee](http://www.zerocracy.com/policy.html#29) for each bug found and
 encourage programmers to find as many of them as possible.
 
 We realize that our approach is very much
