@@ -34,7 +34,8 @@ To make a project manageable by a computer, we use a strict
     happens in GitHub tickets.
 
   * [Microtasking](http://www.yegor256.com/2017/11/28/microtasking.html):
-    each task assigned to a programmer has a fixed budget of 30 minutes.
+    each task assigned to a programmer has a fixed
+    [budget](http://www.yegor256.com/2018/01/09/micro-budgeting.html) of 30 minutes.
 
   * [No excuses](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
     we pay a fixed budget when the task is
@@ -67,7 +68,7 @@ all project [stakeholders](http://www.yegor256.com/2016/07/10/software-project-r
   * Programmers are more [motivated](http://www.yegor256.com/2017/09/19/what-motivates-me.html)
   * Costs are [lower](http://www.yegor256.com/2014/04/11/cost-of-loc.html)
   * Quality is [higher](http://www.yegor256.com/2016/08/05/distributed-teams-are-higher-quality.html)
-  * Maintainability is higher and turnover is not a problem
+  * Maintainability is higher and turnover doesn't hurt
 
 To try it out, [submit an RfP](https://www.0crat.com/rfp)
 and one of our architects will get in touch with you.
