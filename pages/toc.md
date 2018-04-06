@@ -26,7 +26,7 @@ suggest to <del>replace</del> empower a human project manager with
 [Zerocrat](http://www.yegor256.com/2018/03/21/zerocracy-announcement.html),
 a hosted chat bot.
 To make a project manageable by a computer, we use a strict
-[Policy](/policy.html) of work, which derives the following principles from
+[Policy](/policy.html), which derives the following principles from
 [eXtremely Distributed Software Development](http://www.xdsd.org) methodology:
 
 [**No Chats**](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html):
