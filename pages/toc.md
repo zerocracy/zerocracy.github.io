@@ -34,7 +34,7 @@ programmers don't talk to each other anywhere outside of GitHub tickets.
 
 [**Microtasking**](http://www.yegor256.com/2017/11/28/microtasking.html):
 each task has a [fixed](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
-[budgets](http://www.zerocracy.com/policy.html#4) of less than an hour.
+[budget](http://www.zerocracy.com/policy.html#4) of less than an hour.
 
 [**No Excuses**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):
 we pay only for deliverables when a task is
@@ -52,7 +52,7 @@ we encourage programmers to cut corners
 they can.
 
 [**Pay Per Bug**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):
-we encourage programmers to find bugs and [pay for them](http://www.zerocracy.com/policy.html#29).
+we encourage programmers to find bugs and we [pay for them](http://www.zerocracy.com/policy.html#29).
 
 We realize that our approach is very much
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
