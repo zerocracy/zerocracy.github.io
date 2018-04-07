@@ -269,7 +269,7 @@ ARC and REV roles can't be assigned to the same person.
 <a name="17" href="#17">§17</a>
 "Connect GitHub."
 To connect your GitHub repository to the project you should
-1) add a new Webhook: `http://p.rehttp.net/https://www.0crat.com/ghook`
+1) add a new Webhook: `http://www.rehttp.net/p/https://www.0crat.com/ghook`
 (with "send me everything" option),
 and
 2) link the project in Slack: `links add github yegor256/cactoos`, where
