@@ -37,7 +37,8 @@ Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your "mentor" and will be responsible for helping you
 out in the system. A mentor may have up to <span id="1.max-students">16</span> students
 and pays <span id="1.price">128</span> [points](#18) for each new invitation.
-Fill out [this form](https://www.0crat.com/join) if you don't know anyone yet
+Fill out [this form](https://www.0crat.com/join) (you can do it every <span id="1.lag">16</span> days)
+if you don't know anyone yet
 or seek help in [our Telegram group](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 Once you are invited, your name and your performance metrics will be visible
 in the [Team page](https://www.0crat.com/team).
