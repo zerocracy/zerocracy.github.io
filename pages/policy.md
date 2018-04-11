@@ -104,7 +104,7 @@ In exceptional situations, you should ask project architect to boost your job.
 <a name="6" href="#6">§6</a>
 "Refusal."
 You may refuse to complete any job by saying `refuse`.
-You will get <span id="6.penalty">15</span> [points](#18) for that.
+You will get a penalty of <span id="6.penalty">15</span> [points](#18) for that.
 
 <a name="7" href="#7">§7</a>
 "Definition of Done."
@@ -356,7 +356,7 @@ You can remove a job from the scope by saying `out`.
 You can increase a budget of the job by setting its boost factor.
 Just say `boost 2x` (or `3x`, `5x`, etc.) to Zerocrat.
 This operation is against our principles of [micro-budgeting](http://www.yegor256.com/2018/01/09/micro-budgeting.html),
-that's why you get <span id="15.penalty">10</span> [points](#18)
+that's why you get a penalty of <span id="15.penalty">10</span> [points](#18)
 every time you do this.
 
 <a name="19" href="#19">§19</a>
