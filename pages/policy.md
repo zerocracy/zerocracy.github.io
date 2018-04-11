@@ -122,6 +122,7 @@ You will get no money and a penalty as big as the the [budget](#4) of the job, i
 "Pay per Bug."
 Each time you report a new [bug](http://www.yegor256.com/2018/02/06/where-to-find-more-bugs.html)
 that becomes a job, you earn <span id="29.price">+15</span> minutes.
+The ARC makes a subjective non-disputable decision whether a reported bug deserves to be a job or not.
 
 <a name="9" href="#9">§9</a>
 "Impediments."
