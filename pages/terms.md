@@ -79,7 +79,7 @@ The Contributor shall execute all documents, and take any and all actions
 needed, all without further consideration, in order to confirm the Product Owner's rights.
 
 <a name="privacy" href="#privacy">Privacy</a>.
-We collect a lof of information about you and your projects.
+We collect a lot of information about you and your projects.
 We use the information we collect to provide, maintain, protect and
 improve our services, to develop new ones, and to protect Zerocracy
 and our users. We also use this information to offer you tailored
