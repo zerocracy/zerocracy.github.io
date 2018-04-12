@@ -54,7 +54,7 @@ a raise of your [project rate](#13).
 <a name="33" href="#33">§33</a>
 "Sandbox."
 You can [apply](#2) to a project only if your [reputation](#18) is over
-<span id="33.min-live">+256</span>.
+<del>+256</del> <span id="33.min-live" style="color:red">+128</span>.
 If it is lower, you can only apply to [sandbox](https://www.0crat.com/board) projects
 and your highest allowed rate is <span id="33.max-sandbox-rate">$16</span>.
 You can't apply to a sandbox project if your reputation is over <span id="33.max-sandbox-rep">+1024</span>.
