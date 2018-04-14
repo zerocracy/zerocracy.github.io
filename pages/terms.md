@@ -20,11 +20,11 @@ and
 [fund](http://datum.zerocracy.com/pages/policy.html#21)
 projects are referred to as "Product Owners."
 
-<a name="kyc" href="#kyc">Identification</a>.
+<a id="kyc" href="#kyc">Identification</a>.
 Before making any monetary transaction to a Contributor, we verify
 their identity via one of our partners, like [Yoti](http://www.yoti.com).
 
-<a name="non-solicitation" href="#non-solicitation">Non-Solicitation</a>.
+<a id="non-solicitation" href="#non-solicitation">Non-Solicitation</a>.
 During one calendar year following the moment of quitting the project,
 as in [§35](http://datum.zerocracy.com/pages/policy.html#35),
 the Contributor will not, either directly or indirectly, solicit, induce, recruit or
@@ -32,7 +32,7 @@ encourage any Contributor, employee, customer, or supplier of the project.
 A minimum penalty for a proven solicitation is
 **<span style="color:darkred">$25,000</span>**.
 
-<a name="non-employment" href="#non-employment">Non-Employment</a>.
+<a id="non-employment" href="#non-employment">Non-Employment</a>.
 It is understood that any Contributor is an independent professional
 contractor and will not, in any event, be construed as or hold themselves to
 be employees of Zerocracy or any other Contributor. The Contributor is responsible
@@ -42,7 +42,7 @@ for payment of State and Federal taxes, and any other applicable tax.
 The Contributor is not eligible for any benefits Zerocracy or any other
 Contributors may provide for their employees.
 
-<a name="confidentiality" href="#confidentiality">Confidentiality</a>.
+<a id="confidentiality" href="#confidentiality">Confidentiality</a>.
 Confidential Information means any and all proprietary information
 disclosed or made available by either party ("Discloser") hereafter
 to the other party ("Holder") in the course of performing activities,
@@ -64,7 +64,7 @@ disclose it to any third party or to the public.
 A minimum penalty for a proven breach of confidentiality is
 **<span style="color:darkred">$25,000</span>**.
 
-<a name="copyright" href="#copyright">Copyright</a>.
+<a id="copyright" href="#copyright">Copyright</a>.
 All deliverables created by the Contributor shall be considered as
 "works made for hire" as is defined under the
 [Copyright Law of the United States of America](https://www.copyright.gov/title17/) (edition of June 2003).
@@ -78,7 +78,7 @@ the Product Owner.
 The Contributor shall execute all documents, and take any and all actions
 needed, all without further consideration, in order to confirm the Product Owner's rights.
 
-<a name="privacy" href="#privacy">Privacy</a>.
+<a id="privacy" href="#privacy">Privacy</a>.
 We collect a lot of information about you and your projects.
 We use the information we collect to provide, maintain, protect and
 improve our services, to develop new ones, and to protect Zerocracy
@@ -88,23 +88,23 @@ a purpose other than those that are set out in these Terms. We never
 provide for free or sell any information about you or your projects
 to any third-parties.
 
-<a name="pgp" href="#pgp">PGP</a>.
+<a id="pgp" href="#pgp">PGP</a>.
 We sign all PDF documents with
 [this](https://pgp.mit.edu/pks/lookup?op=get&search=0x5F469A23FEB40FC137BD0A7D9C56FE050AAF4B5A)
 and only this PGP key (it has no expiration date).
 
-<a name="law" href="#law">Law</a>.
+<a id="law" href="#law">Law</a>.
 These Terms shall be governed and construed in accordance with
 the laws of the State of California applicable to contracts made
 and fully performed therein, and the state and federal courts
 located in California shall have exclusive jurisdiction of all
 suits and proceedings arising out of or in connection with this agreement.
 
-<a name="conduct" href="#conduct">Conduct</a>.
+<a id="conduct" href="#conduct">Conduct</a>.
 The Contributor must not interfere or intend to interfere in any manner
 with the functionality or proper working of Zerocracy software.
 
-<a name="harm" href="#harm">Harm</a>.
+<a id="harm" href="#harm">Harm</a>.
 The Contributor will indemnify and hold harmless Zerocracy, its officers
 and directors, employees and agents from any and all third party claims,
 damages, costs and (including reasonable attorneys fees) arising
@@ -112,7 +112,7 @@ out of the Contributor's use of Zerocracy in a manner not authorized
 by these Terms, and/or applicable law, or the Contributor's or
 its employees' or personnel's negligence or willful misconduct.
 
-<a name="changes" href="#changes">Changes</a>.
+<a id="changes" href="#changes">Changes</a>.
 These Terms may be
 [modified](https://github.com/zerocracy/zerocracy.github.io/commits/master)
 by Zerocracy at any time.
