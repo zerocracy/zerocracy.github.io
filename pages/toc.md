@@ -52,6 +52,7 @@ To make a project manageable by a computer, we use a strict
 no loyalty: everybody works for money
 no inequality: we don't care who works for us
 no guilt: we work out of greed
+no meetings
 -->
 
 We realize that our approach is very much
@@ -66,4 +67,4 @@ all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.htm
   * Maintainability is higher and turnover doesn't hurt
 
 To try it out, [submit an RfP](https://www.0crat.com/rfp)
-and one of our architects will get in touch with you.
+and one of [our architects](https://www.0crat.com/team) will get in touch with you.
