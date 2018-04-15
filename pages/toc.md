@@ -15,7 +15,7 @@ software projects suffer
 [from](https://www.infoq.com/articles/software-failure-reasons):
 
   * High labor costs
-  * High and damaging turnover of personnel
+  * Personnel turnover
   * Low maintainability
   * Low quality of code and product
 
