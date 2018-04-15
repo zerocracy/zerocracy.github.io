@@ -30,7 +30,7 @@ To make a project manageable by a computer, we use a strict
 
   * [**&#35;NoMagic**](http://www.yegor256.com/2016/09/27/command-control-innovate.html)
     ([video](https://www.youtube.com/watch?v=AwrMKTFyohg)):<br/>
-    We rely on discipline, order, and control much more than on trust and talent.
+    We rely on discipline and control much more than on trust and talent.
   * [**&#35;NoSalaries**](http://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html)
     ([video](https://www.youtube.com/watch?v=ODxm7w2DE-g)):<br/>
     We pay [fixed fees](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
