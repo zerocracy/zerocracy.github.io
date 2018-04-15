@@ -17,8 +17,7 @@ software projects suffer
   * High labor costs
   * High and damaging turnover of personnel
   * Low maintainability
-  * Low quality of code
-  * High volume of defects
+  * Low quality of code and product
 
 We believe that most of the above is caused by broken
 management, not technical incompetence. To solve that, we
@@ -47,6 +46,12 @@ To make a project manageable by a computer, we use a strict
     [laziness](http://www.yegor256.com/2018/03/06/speed-vs-quality.html).
   * [**&#35;NoFear**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):<br/>
     We encourage programmers to find bugs and we [pay for them](http://www.zerocracy.com/policy.html#29).
+
+<!--
+no loyalty: everybody works for money
+no inequality: we don't care who works for us
+no guilt: we work out of greed
+-->
 
 We realize that our approach is very much
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
