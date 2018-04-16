@@ -36,8 +36,10 @@ To make a project manageable by a computer, we use a strict
     We pay [fixed fees](http://www.yegor256.com/2018/01/09/micro-budgeting.html)
     only for deliverables of [microtasks](http://www.yegor256.com/2017/11/28/microtasking.html),
     never per hour/month.
-  * [**&#35;NoChats**](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html):<br/>
-    We don't talk to each other anywhere outside of GitHub tickets.
+  * [**&#35;NoMeetings**](http://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html):<br/>
+    We [don't talk](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
+    to each other [anywhere](http://www.yegor256.com/2016/08/23/communication-maturity.html)
+    outside of GitHub tickets.
   * [**&#35;NoObligations**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):<br/>
     We encourage programmers to work only when they find it profitable.
   * [**&#35;NoHelp**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):<br/>
