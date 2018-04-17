@@ -56,6 +56,10 @@ no loyalty: everybody works for money
 no inequality: we don't care who works for us
 no guilt: we work out of greed
 no meetings
+no estimates
+no obligations
+no compromises
+no excuses
 -->
 
 We realize that our approach is very much
