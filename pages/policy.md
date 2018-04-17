@@ -59,7 +59,8 @@ If it is lower, you can only apply to [sandbox](https://www.0crat.com/board) pro
 and your highest allowed rate is <span id="33.max-sandbox-rate">$16</span>.
 You can't apply to a sandbox project if your reputation is over <span id="33.max-sandbox-rep">+1024</span>.
 You will be automatically removed from a sandbox project once your reputation is over <span id="33.sandbox-rep-threshold">+1024</span>.
-You will automatically get `REV` role in a sandbox project when your reputation is over <span id="33.rev-rep">+256</span>.
+You will automatically get `REV` role in a sandbox project when your reputation is over <span id="33.rev-rep">+256</span>
+and you will lose it if the reputation drops below <span id="33.rev-min-rep">+128</span>.
 
 <a id="3" href="#3">§3</a>
 "Election."
