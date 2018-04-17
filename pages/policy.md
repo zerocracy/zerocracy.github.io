@@ -35,7 +35,7 @@ To start working with us you have to be invited by someone we already know,
 whose [reputation](#18) is over <del>+1024</del> <span id="1.min-rep" style="color:red">+256</span>.
 Ask that person to say `invite` with your GitHub login to Zerocrat.
 The person will be your "mentor" and will be responsible for helping you
-out in the system. A mentor may have up to <span id="1.max-students">16</span> students
+out in the system. A mentor may have up to <span id="1.max-students">24</span> students
 and pays <span id="1.price">128</span> [points](#18) for each new invitation.
 Fill out [this form](https://www.0crat.com/join) (you can do it every <span id="1.lag">16</span> days)
 if you don't know anyone yet
