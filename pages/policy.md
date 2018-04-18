@@ -268,6 +268,7 @@ in order to make them work for free.
 A project must always have one PO and one ARC.
 A project may not have more than two ARCs or more than two POs.
 ARC and REV roles can't be assigned to the same person.
+QA role can't overlap with REV, DEV or ARC.
 
 <a id="17" href="#17">§17</a>
 "Connect GitHub."
