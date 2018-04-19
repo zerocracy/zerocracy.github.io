@@ -46,7 +46,7 @@ To make a project manageable by a computer, we use a strict
   * [**&#35;NoHelp**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):<br/>
     We don't teach programmers and don't help them.
   * [**&#35;NoAltruism**](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html)
-    ([video](https://www.youtube.com/watch?v=TpduNpwCq40)):<br/>
+    ([video](https://www.youtube.com/watch?v=vXUwE3FGfpg)):<br/>
     We encourage [egoism](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html) and
     [laziness](http://www.yegor256.com/2018/03/06/speed-vs-quality.html).
   * [**&#35;NoFear**](http://www.yegor256.com/2014/04/13/bugs-are-welcome.html):<br/>
