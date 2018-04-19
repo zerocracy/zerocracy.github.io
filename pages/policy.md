@@ -214,6 +214,13 @@ to work with them without Zerocrat.
 You can always "go on vacation" if you want Zerocrat to temporarily stop
 assigning you new jobs; just say `vacation`.
 
+<a id="52" href="#52">§52</a>
+"Auto-Vacation."
+If you receive <span id="52.awards">8</span> or more negative awards in the past <span id="52.days">16</span> days and
+no positive ones, your vacation status will automatically be set to `on`, which means you will not receive new tasks.
+You have to manually turn off vacation status to receive new tasks. Note that you can turn vacation off any time, but
+the auto-vacation mechanism will be re-evaluated if you receive another negative award.
+
 <a id="35" href="#35">§35</a>
 "Quit."
 You can always quit a project, just say `quit` to Zerocrat.
