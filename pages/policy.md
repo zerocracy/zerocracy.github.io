@@ -253,23 +253,6 @@ You can submit a new RFP only when the first one expires or is purchased.
 To start working with us, you have to [invite](https://www.0crat.com/add_to_slack)
 Zerocrat to your Slack.
 
-<a id="13" href="#13">§13</a>
-"Assign/Resign."
-Everybody who will be managed by Zerocrat must have roles in the project.
-To assign a role you say `assign`. To remove a role you say `resign`.
-By default, all new people you assign are supposed to work for free. If you
-want to pay them for the jobs they complete, add hourly rate to the `assign`
-command, for example: `assign DEV yegor256 $50`. To change the hourly
-rate of a person just assign the same role with a different rate, or `0`
-in order to make them work for free.
-
-<a id="34" href="#34">§34</a>
-"Mandatory Roles."
-A project must always have one PO and one ARC.
-A project may not have more than two ARCs or more than two POs.
-ARC and REV roles can't be assigned to the same person.
-QA role can't overlap with REV, DEV or ARC.
-
 <a id="17" href="#17">§17</a>
 "Connect GitHub."
 To connect your GitHub repository to the project you should
@@ -348,6 +331,23 @@ Then, you should say `bootstrap` to Zerocrat.
 You need to have at least <span id="12.min">+1024</span> reputation points to be able to do that.
 You will be charged <span id="12.price">256</span>
 [points](#18) for each project you bootstrap.
+
+<a id="13" href="#13">§13</a>
+"Assign/Resign."
+Everybody who will be managed by Zerocrat must have roles in the project.
+To assign a role you say `assign`. To remove a role you say `resign`.
+By default, all new people you assign are supposed to work for free. If you
+want to pay them for the jobs they complete, add hourly rate to the `assign`
+command, for example: `assign DEV yegor256 $50`. To change the hourly
+rate of a person just assign the same role with a different rate, or `0`
+in order to make them work for free.
+
+<a id="34" href="#34">§34</a>
+"Mandatory Roles."
+A project must always have one PO and one ARC.
+A project may not have more than two ARCs or more than two POs.
+ARC and REV roles can't be assigned to the same person.
+QA role can't overlap with REV, DEV or ARC.
 
 <a id="14" href="#14">§14</a>
 "Scope In/Out."
