@@ -333,7 +333,7 @@ You will be charged <span id="12.price">256</span>
 [points](#18) for each project you bootstrap.
 
 <a id="13" href="#13">§13</a>
-"Assign/Resign."
+"Assign/Resign Role."
 Everybody who will be managed by Zerocrat must have roles in the project.
 To assign a role you say `assign`. To remove a role you say `resign`.
 By default, all new people you assign are supposed to work for free. If you
@@ -363,7 +363,7 @@ that's why you get a penalty of <span id="15.penalty">10</span> [points](#18)
 every time you do this.
 
 <a id="19" href="#19">§19</a>
-"Assign."
+"Assign Job."
 You can manually assign any job to a user, just say `assign @yegor256`
 (where instead of `@yegor256` you put the GitHub login of the user) or
 assign the ticket to that user in your ticket tracking system.
