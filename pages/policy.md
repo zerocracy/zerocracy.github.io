@@ -340,7 +340,8 @@ By default, all new people you assign are supposed to work for free. If you
 want to pay them for the jobs they complete, add hourly rate to the `assign`
 command, for example: `assign DEV yegor256 $50`. To change the hourly
 rate of a person just assign the same role with a different rate, or `0`
-in order to make them work for free.
+in order to make them work for free;
+this will not affect the [budgets](#4) of already assigned tasks.
 
 <a id="34" href="#34">§34</a>
 "Mandatory Roles."
