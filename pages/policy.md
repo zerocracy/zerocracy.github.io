@@ -313,12 +313,11 @@ When your project is published, its statistical information will be visible in t
 You can unpublish it anytime, just say `publish off`.
 
 <a id="37" href="#37">§37</a>
-"Vesting."
-On top of [cash](#13) you can give equity to project contributors.
-Just modify the rates in `vesting.xml` (in `Files` tab of the project dashboard)
-and they will
-[automatically](http://www.yegor256.com/2018/02/13/micro-vesting.html) start
-earning project equity after each job [completion](#7).
+"Micro-Vesting."
+On top of [cash](#13) you can give [equity](http://www.yegor256.com/2018/02/13/micro-vesting.html) to project contributors.
+Just add the vesting rate to the `assign` [command](#13), for example:
+`assign DEV yegor256 $16 $40`, where `$16` is the rate paid in cash and
+`$24` to be paid in equity after each job [completion](#7).
 
 <a id="50" href="#50">§50</a>
 "Contribution."
