@@ -144,7 +144,7 @@ To make money in any project you must define your hourly rate.
 To do that just say `rate` to Zerocrat. This rate is for marketing purpose
 only, since each project will [set](#13) their own rates for you.
 Your rate can only be between <span id="16.min">$16</span> and <span id="16.max">$256</span>.
-You can use USD, EUR, GBP, or JPY, but all payments will be made in USD
+You can use USD, EUR, GBP, or JPY (format like `17EUR` or `25.50GBP`), but all payments will be made in USD
 (converted by [apilayer](https://apilayer.net)).
 
 <a id="20" href="#20">§20</a>
