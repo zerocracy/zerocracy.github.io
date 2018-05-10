@@ -104,7 +104,7 @@ In exceptional situations, you should ask project architect to boost your job.
 
 <a id="6" href="#6">§6</a>
 "Refusal."
-You may refuse to complete any job by saying `refuse`.
+You may refuse to complete any job by saying `refuse` or `resign`.
 You will get a penalty of <span id="6.penalty">15</span> [points](#18) for that.
 
 <a id="7" href="#7">§7</a>
