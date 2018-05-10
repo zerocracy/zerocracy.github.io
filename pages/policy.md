@@ -444,7 +444,8 @@ don't wait for more than five days though.
 The quality of a job is "bad" if any of the following happens
 (these violations we can't forgive):
 
-  * The code reviewer didn't find any issues in the pull request and just accepted it;
+  * The code reviewer didn't find any issues in the source code
+    changes of a pull request and just accepted it;
   * The job is closed without a solution provided.
 
 <a id="31" href="#31">§31</a>
