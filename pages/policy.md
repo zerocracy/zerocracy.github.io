@@ -161,13 +161,13 @@ To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 <a id="46" href="#46">§46</a>
 "Debt."
 When Zerocrat fails to pay, for any reason, the payment amount will be added to our "debt" to you.
-We attempt to pay the debt once a day, if it's larger than <span id="46.threshold">$20</span>
-or older than <span id="46.days">20</span> days.
+We attempt to pay the debt once a day, if it's larger than <span id="46.threshold">$64</span>
+or older than <span id="46.days">32</span> days.
 Possible reasons of not paying immedidately include, but not limited to:
 
   * Network connection with the payment gateway is broken;
   * Temprorary issues with our accounts in PayPal, Coinbase, etc.;
-  * The amount is smaller than <span id="46.min">$10</span> (to avoid big commissions);
+  * The amount is smaller than <span id="46.min">$24</span> (to avoid big commissions);
   * We are broke (just kidding).
 
 <a id="32" href="#32">§32</a>
