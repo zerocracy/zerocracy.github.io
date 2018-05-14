@@ -361,6 +361,11 @@ QA role can't overlap with REV, DEV or ARC.
 You should add jobs to the scope, by saying `in` to Zerocrat (or assigning the ticket to him).
 You can remove a job from the scope by saying `out`.
 
+<a id="53" href="#53">§53</a>
+"Auto-In."
+Zerocrat automatically adds pull requests to scope, unless
+they are too small and don't deserve it. The decision is made by Zerocrat automatically.
+
 <a id="15" href="#15">§15</a>
 "Boosting."
 You can increase a budget of the job by setting its boost factor.
@@ -382,6 +387,7 @@ If you assign a job to its reporter/creator, you will get an additional penalty 
 <a id="28" href="#28">§28</a>
 "Architect Review Bonus."
 You will earn <span id="28.price">+10</span> minutes for each pull request successfully merged.
+Only [in-scope](#53) pull requests will be paid.
 It is recommended to use [Rultor](http://www.rultor.com) or a similar
 solution, which will allow only the architect to merge.
 
