@@ -79,7 +79,8 @@ You will be notified in job's ticket. The rules include, in order of importance:
     * <span id="3.jobs-3">16</span> if less than <span id="3.rep-3">+4096</span>,
     * <span id="3.jobs-4">24</span> otherwise;
   * The size of agenda doesn't matter if the job is a code review;
-  * The absolute maximum of jobs you may have in your agenda is <span id="3.absolute-max">32</span>.
+  * The absolute maximum of jobs you may have in your agenda is <span id="3.absolute-max">32</span>;
+  * If your [debt](#46) is over <span id="3.max-debt">$128</span> you won't get any new jobs.
 
 <a id="4" href="#4">§4</a>
 "Fixed Budget."
