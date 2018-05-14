@@ -437,7 +437,9 @@ The quality of a job is "good" if all of the following requirements are met:
     contains a link to the original ticket it is related to ([discuss](https://github.com/zerocracy/datum/issues/296));
   * The code reviewer found at least three problems in the code ([discuss](https://github.com/zerocracy/datum/issues/294));
   * Comments were mostly about design problems, not cosmetic issues;
-  * All problems found by the code reviewer were addressed by the pull request author;
+  * All problems found by the code reviewer were _addressed_ by the pull request author, which
+    means that they were either fixed as the reviewer wanted or the reviewer was
+    convinced that they should not be fixed;
   * All impediments registered in the ticket have explanations of the
     reasons and links to related tickets, if necessary ([discuss](https://github.com/zerocracy/datum/issues/300));
   * All commit messages have links to issues ([discuss](https://github.com/zerocracy/datum/issues/295)).
