@@ -395,7 +395,7 @@ solution, which will allow only the architect to merge.
 <a id="49" href="#49">§49</a>
 "Extra."
 You can pay extra cash to any user by saying `pay` to Zerocrat.
-You will get a penalty of <span id="49.penalty">60</span> points for this.
+You will get a penalty of <del>60</del> <span id="49.penalty" style="color:red">20</span> points for this.
 The maximum you can pay in one go is <span id="49.max">120</span> minutes.
 
 <a id="51" href="#51">§51</a>
