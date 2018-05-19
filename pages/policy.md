@@ -426,7 +426,7 @@ The quality of a job is "good" if all of the following requirements are met:
     start with a name of a user they are addressed to;
   * The job is closed only when the reported problem is solved,
     [see](http://www.yegor256.com/2015/02/12/top-down-design.html);
-  * Some of ticket messages must mention all pull requests where the problem was actually fixed;
+  * Ticket must have references to all pull requests where the problem was actually fixed;
   * Problem reporter and problem solver are two different persons;
     [see](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#1.-keep-it-one-on-one);
   * Ticket title and description clearly state what is broken and what kind of fix is expected,
