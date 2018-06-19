@@ -154,7 +154,7 @@ We can send you money either via
 [PayPal](https://www.paypal.com),
 [Bitcoin](https://bitcoin.org/en/),
 [Bitcoin Cash](https://www.bitcoincash.org/),
-[Etherium](https://www.ethereum.org/),
+[Ethereum](https://www.ethereum.org/),
 or
 [Litecoin](https://litecoin.org/).
 To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
