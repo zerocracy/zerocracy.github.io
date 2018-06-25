@@ -181,7 +181,7 @@ If you are not a member of a project, you can only earn [points](#18) there, not
 
 <a id="43" href="#43">§43</a>
 "Graduation."
-When your [reputation](#8) reaches <span id="43.threshold">+2048</span>,
+When your [reputation](#8) reaches <span id="43.threshold">+1024</span>,
 Zerocrat will automaticatly set himself as your mentor.
 
 <a id="44" href="#44">§44</a>
