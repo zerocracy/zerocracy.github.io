@@ -6,7 +6,7 @@ description: |
   Zerocracy is a very unique platform, where programmers
   work without stress, meetings, deadlines, bosses, and
   monthly salaries; this guide will help you on-board.
-permalink: toc.html
+permalink: faq.html
 ---
 
 First, you need a mentor, who will [invite](/policy.html#1) you.
