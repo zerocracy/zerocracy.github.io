@@ -14,7 +14,7 @@ Before you start, make sure you understand that:
   * You won't earn unless you close tickets;
   * Nobody will help you;
   * You will have no boss;
-  * There will be chats or discussions.
+  * There will be no chats or discussions.
 
 Ready to try? Here is how.
 
