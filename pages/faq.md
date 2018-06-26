@@ -11,7 +11,8 @@ permalink: faq.html
 
 Before you start, make sure you understand that:
 
-  * You won't earn unless you close tickets;
+  * You will not be paid for the time you spend;
+  * You will be paid only when you close tickets;
   * Nobody will [teach](https://www.yegor256.com/2015/02/16/it-is-not-a-school.html) or help you;
   * You will have no boss;
   * There will be [no chats](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html) or discussions.
