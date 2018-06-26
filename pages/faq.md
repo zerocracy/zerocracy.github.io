@@ -27,11 +27,12 @@ Ask him to change your [payment method](/policy.html#20).
 Then, ask the bot to change your [hourly rate](/policy.html#16).
 
 Then, if you are totally new to Zerocracy, [apply](/policy.html#2) to one of our
-sandbox projects. Your application will be reviewed and you will get
+[sandbox projects](https://www.0crat.com/board).
+Your application will be reviewed and you will get
 a `DEV` (developer) role in a few hours (up to 24). Then, Zerocrat
 will start assigning you tasks, according to his [own algorithm](/policy.html#3).
 
-If you already know the project you want to join, ask project architect
+If you already know the project, which you want to join, ask its architect
 to [assign](/policy.html#13) `DEV` role to you. You may also ask the architect to give
 you a few tasks to start with.
 
@@ -40,22 +41,23 @@ Now, a few hints before you start working:
 First, your first tasks will most likely need more time than the
 [30-minutes](/policy.html#4)
 budget they will have. Remember, that you are not supposed to always
-complete them all entirely. You may (and should!) leave some parts of it
-incomplete and mark them with TODO markers, which we call
+complete them all entirely. You may (and should!) leave some parts of them
+incomplete; just add TODO markers, which we call
 [puzzles](https://www.yegor256.com/2010/03/04/pdd.html).
 
 Second, you will also have problems in completing your first tasks, because
 the project is new and you don't know how things are designed there.
 Don't try to learn them! Don't waste a minute of your time for studying
 the code. Instead, submit new tickets, asking the project to document
-things for your and resolve all your concerns. You
+things for you and resolve all your concerns. You
 [will be paid](/policy.html#29) for those tickets.
 
 Third, forget about Slack, chats, meetings, and phone calls. We
 [never](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
 discuss any technical questions outside of GitHub tickets. Never! If you
 have a question about your task, post a message to the ticket. If you have
-a question about the code base and its design, submit new tickets.
+a question about the code base and its design, submit
+[new tickets](https://www.yegor256.com/2018/04/24/right-way-to-report-bugs.html).
 
 If you have any non-technical questions, ask your mentor.
 
