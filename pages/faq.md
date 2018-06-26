@@ -20,8 +20,11 @@ If this doesn't happen, join our [Telegram group](https://t.me/zerocracy) and as
 If nobody is interested, ask Yulia in Telegram: [@yuliya_bodak](https://t.me/yuliya_bodak).
 She will help you out.
 
-Next, when you are invited,
-talk to our Telegram bot: [@zerocrat_bot](https://t.me/zerocrat_bot).
+Next, when you are invited, [identify](https://www.0crat.com/identify) yourself.
+You will have to do it online through a mobile app.
+If that method doesn't work, email us your ID.
+
+Now, talk to our Telegram bot: [@zerocrat_bot](https://t.me/zerocrat_bot).
 Ask him to change your [payment method](/policy.html#20).
 
 Then, ask the bot to change your [hourly rate](/policy.html#16).
