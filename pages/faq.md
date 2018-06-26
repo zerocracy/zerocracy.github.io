@@ -9,6 +9,15 @@ description: |
 permalink: faq.html
 ---
 
+Before you start, make sure you understand that:
+
+  * You won't earn unless you close tickets;
+  * Nobody will help you;
+  * You will have no boss;
+  * There will be chats or discussions.
+
+Ready to try? Here is how.
+
 First, you need a mentor, who will [invite](/policy.html#1) you.
 
 To find a mentor, fill out [this form](https://www.0crat.com/join).
