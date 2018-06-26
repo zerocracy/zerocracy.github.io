@@ -406,6 +406,8 @@ you can invite programmers to your project by announcing a job
 (you can find a link at your project dashboard).
 Each announcement will cost you
 <span id="51.price">128</span> reputation [points](#18).
+It will be availale on [vacancies](https://www.0crat.com/vacancies) page
+for <span id="51.days">32</span> days.
 
 ## Quality Assurance (<a id="QA">QA</a>)
 
