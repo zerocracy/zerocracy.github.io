@@ -183,6 +183,7 @@ If you are not a member of a project, you can only earn [points](#18) there, not
 "Graduation."
 When your [reputation](#8) reaches <span id="43.threshold">+1024</span>,
 Zerocrat will automaticatly set himself as your mentor.
+Your mentor will receive a one-time bonus of <span id="43.bonus">$32</span> when this happens.
 
 <a id="44" href="#44">§44</a>
 "Expel."
