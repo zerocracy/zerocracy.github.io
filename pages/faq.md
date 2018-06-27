@@ -11,8 +11,8 @@ permalink: faq.html
 
 Before you start, make sure you understand that:
 
-  * You will not be paid for the time you spend;
-  * You will be paid only when you close tickets;
+  * You will not be paid [for the time](https://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html) you spend;
+  * You will be paid [only when you close](https://www.yegor256.com/2018/01/09/micro-budgeting.html) tickets;
   * Nobody will [teach](https://www.yegor256.com/2015/02/16/it-is-not-a-school.html) or help you;
   * You will have no boss;
   * There will be [no chats](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html) or discussions.
