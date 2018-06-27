@@ -25,19 +25,20 @@ To find a mentor, fill out [this form](https://www.0crat.com/join).
 Your application will be sent to our [most active programmers](https://www.0crat.com/team).
 Some of them may get interested and will contact you back.
 
-If this doesn't happen, join our [Telegram group](https://t.me/zerocracy) and ask there.
+If this doesn't happen, join our [Telegram group](https://t.me/zerocracy) and ask there
+(we recommend you join the group in any case).
 
 If nobody is interested, ask Yulia in Telegram: [@yuliya_bodak](https://t.me/yuliya_bodak).
 She will help you out.
 
 Next, when you are invited, [identify](https://www.0crat.com/identify) yourself.
 You will have to do it online through a mobile app.
-If that method doesn't work, email us your ID.
+If that method doesn't work, [email us](mailto:identity@zerocracy.com) your ID.
 
 Now, talk to our Telegram bot: [@zerocrat_bot](https://t.me/zerocrat_bot).
 Ask him to change your [payment method](/policy.html#20).
 
-Then, ask the bot to change your [hourly rate](/policy.html#16).
+Then, ask him to change your [hourly rate](/policy.html#16).
 
 Then, if you are totally new to Zerocracy, [apply](/policy.html#2) to one of our
 [sandbox projects](https://www.0crat.com/board).
@@ -51,26 +52,26 @@ you a few tasks to start with.
 
 Now, a few hints before you start working:
 
-First, your first tasks will most likely need more time than the
-[30-minutes](/policy.html#4)
-budget they will have. Remember, that you are not supposed to always
-complete them all entirely. You may (and should!) leave some parts of them
-incomplete; just add TODO markers, which we call
-[puzzles](https://www.yegor256.com/2010/03/04/pdd.html).
+  * Your first tasks will most likely need more time than the
+    [30-minutes](/policy.html#4)
+    budget they will have. Remember, that you are not supposed to always
+    complete them all entirely. You may (and should!) leave some parts of them
+    incomplete; just add TODO markers, which we call
+    [puzzles](https://www.yegor256.com/2010/03/04/pdd.html).
 
-Second, you will also have problems in completing your first tasks, because
-the project is new and you don't know how things are designed there.
-Don't try to learn them! Don't waste a minute of your time for studying
-the code. Instead, submit new tickets, asking the project to document
-things for you and resolve all your concerns. You
-[will be paid](/policy.html#29) for those tickets.
+  * You will have problems in completing your first tasks, because
+    the project is new and you don't know how things are designed there.
+    Don't try to learn them! Don't waste a minute of your time for studying
+    the code. Instead, submit new tickets, asking the project to document
+    things for you and resolve all your concerns. You
+    [will be paid](/policy.html#29) for those tickets.
 
-Third, forget about Slack, chats, meetings, and phone calls. We
-[never](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
-discuss any technical questions outside of GitHub tickets. Never! If you
-have a question about your task, post a message to the ticket. If you have
-a question about the code base and its design, submit
-[new tickets](https://www.yegor256.com/2018/04/24/right-way-to-report-bugs.html).
+  * Forget about chats, meetings, and phone calls. We
+    [never](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
+    discuss any technical questions outside of GitHub tickets. Never! If you
+    have a question about your task, post a message to the ticket. If you have
+    a question about the code base and its design, submit
+    [new tickets](https://www.yegor256.com/2018/04/24/right-way-to-report-bugs.html).
 
 If you have any non-technical questions, ask your mentor.
 
