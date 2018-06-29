@@ -153,8 +153,7 @@ You can use USD, EUR, GBP, or JPY (format like `17EUR` or `25.50GBP`), but all p
 We can send you money either via
 [PayPal](https://www.paypal.com),
 [Bitcoin](https://bitcoin.org/en/),
-[Bitcoin Cash](https://www.bitcoincash.org/),
-[Ethereum](https://www.ethereum.org/),
+[Bitcoin Cash](https://www.bitcoincash.org/)
 or
 [Litecoin](https://litecoin.org/).
 To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
