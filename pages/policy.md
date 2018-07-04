@@ -382,9 +382,9 @@ You can manually assign any job to a user, just say `assign @yegor256`
 (where instead of `@yegor256` you put the GitHub login of the user) or
 assign the ticket to that user in your ticket tracking system.
 This operation is against our principles of automated task management,
-that's why you will get <span id="19.penalty">5</span> [points](#18) every time you do this.
-If you assign a job to its reporter/creator, you will get an additional penalty of
-<span id="19.self-penalty">15</span> [points](#18).
+that's why you will get <span id="19.penalty">5</span> [points](#18) penalty
+every time you do this. If you assign a job to its reporter/creator,
+you will get an additional penalty of <span id="19.self-penalty">15</span> [points](#18).
 
 <a id="28" href="#28">§28</a>
 "Architect Review Bonus."
