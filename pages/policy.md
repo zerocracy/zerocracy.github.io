@@ -462,6 +462,9 @@ The quality of a job is "bad" if any of the following happens
 
 <a id="31" href="#31">§31</a>
 "QA Bonus."
-Job performer will get an extra <span id="31.bonus">8</span>% for `DEV` job and <span id="31.rev-bonus">33</span>% for `REV` job if QA reports `good` quality.
+Job performer will get an extra cash: <span id="31.bonus">16</span>% for `DEV` job
+and <span id="31.rev-bonus">33</span>% for `REV`, also you will get
+<span id="31.bonus-minutes">5</span> reputation points for each job
+if QA reports `good` quality.
 If the quality is `bad`, there will be no payment to the job performer at all.
 
