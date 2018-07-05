@@ -33,11 +33,13 @@ You can talk to Zerocrat in:
 "Invite."
 To start working with us you have to be invited by someone we already know,
 whose [reputation](#18) is over <del>+1024</del> <span id="1.min-rep" style="color:red">+256</span>.
-Ask that person to say `invite` with your GitHub login to Zerocrat.
+Fill out [this form](https://www.0crat.com/join) (you can do it every <span id="1.lag">16</span> days)
+and your resume will be assigned to one of examiners, examiner can `invite` you or reject
+your resume with `deny` command. In both cases he/she will get <span id="1.bonus">+32</span>
+reutation points.
 The person will be your "mentor" and will be responsible for helping you
 out in the system. A mentor may have up to <del>16</del> <span id="1.max-students" style="color:red">24</span> students
 and pays <span id="1.price">128</span> [points](#18) for each new invitation.
-Fill out [this form](https://www.0crat.com/join) (you can do it every <span id="1.lag">16</span> days)
 if you don't know anyone yet
 or seek help in [our Telegram group](https://t.me/joinchat/CLxAaQ0xp-g_3WWI3MBr2g).
 Once you are invited, your name and your performance metrics will be visible
