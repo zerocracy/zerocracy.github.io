@@ -366,7 +366,8 @@ You can remove a job from the scope by saying `out`.
 <a id="53" href="#53">§53</a>
 "Auto-In."
 Zerocrat automatically adds pull requests to scope, unless
-they are too small and don't deserve it. The decision is made by Zerocrat automatically.
+they are too small and don't deserve it.
+The decision is made by Zerocrat automatically.
 
 <a id="15" href="#15">§15</a>
 "Boosting."
@@ -408,6 +409,14 @@ Each announcement will cost you
 <span id="51.price">128</span> reputation [points](#18).
 It will be available on [vacancies](https://www.0crat.com/vacancies) page
 for <span id="51.days">32</span> days.
+
+<a id="53" href="#53">§53</a>
+"Release Bonus."
+Every time a new release comes out, you get a bonus equal to the amount of
+"footprint items" since the last release multiplied by
+<span id="53.min-per-claim">2</span> minutes
+(routine items like `Ping` will be excluded).
+The bonus can't be bigger than <span id="53.max">4</span> hours.
 
 ## Quality Assurance (<a id="QA">QA</a>)
 
