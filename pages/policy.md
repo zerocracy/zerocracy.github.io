@@ -157,8 +157,9 @@ We can send you money either via
 [Bitcoin](https://bitcoin.org/en/),
 [Bitcoin Cash](https://www.bitcoincash.org/),
 [Ethereum](https://www.ethereum.org/),
+[Litecoin](https://litecoin.org/)
 or
-[Litecoin](https://litecoin.org/).
+[Zold](https://wts.zold.io).
 To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 
 <a id="46" href="#46">§46</a>
