@@ -131,7 +131,7 @@ The ARC makes a subjective non-disputable decision whether a reported bug deserv
 <a id="9" href="#9">§9</a>
 "Impediments."
 You may declare impediments for a job by saying `wait` to Zerocrat.
-Until the job has impediments [Ten Days rule](#8)
+While the job has impediments [Ten Days rule](#8)
 is not applicable to it.
 
 <a id="36" href="#36">§36</a>
@@ -386,9 +386,9 @@ You can manually assign any job to a user, just say `assign @yegor256`
 (where instead of `@yegor256` you put the GitHub login of the user) or
 assign the ticket to that user in your ticket tracking system.
 This operation is against our principles of automated task management,
-that's why you will get <span id="19.penalty">5</span> [points](#18) every time you do this.
-If you assign a job to its reporter/creator, you will get an additional penalty of
-<span id="19.self-penalty">15</span> [points](#18).
+that's why you will get <span id="19.penalty">5</span> [points](#18) penalty
+every time you do this. If you assign a job to its reporter/creator,
+you will get an additional penalty of <span id="19.self-penalty">15</span> [points](#18).
 
 <a id="28" href="#28">§28</a>
 "Architect Review Bonus."
@@ -474,6 +474,9 @@ The quality of a job is "bad" if any of the following happens
 
 <a id="31" href="#31">§31</a>
 "QA Bonus."
-Job performer will get an extra <span id="31.bonus">8</span>% for `DEV` job and <span id="31.rev-bonus">33</span>% for `REV` job if QA reports `good` quality.
+Job performer will get an extra cash: <span id="31.bonus">16</span>% for `DEV` job
+and <span id="31.rev-bonus">33</span>% for `REV`, also you will get
+<span id="31.bonus-minutes">5</span> reputation points for each job
+if QA reports `good` quality.
 If the quality is `bad`, there will be no payment to the job performer at all.
 
