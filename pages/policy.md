@@ -131,7 +131,8 @@ The ARC makes a subjective non-disputable decision whether a reported bug deserv
 <a id="9" href="#9">§9</a>
 "Impediments."
 You may declare impediments for a job by saying `wait` to Zerocrat.
-While the job has impediments [Ten Days rule](#8) is not applicable to it.
+While the job has impediments [Ten Days rule](#8)
+is not applicable to it.
 
 <a id="36" href="#36">§36</a>
 "Speed Bonus."
