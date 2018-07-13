@@ -413,13 +413,13 @@ Each announcement will cost you
 It will be available on [vacancies](https://www.0crat.com/vacancies) page
 for <span id="51.days">32</span> days.
 
-<a id="53" href="#53">§53</a>
+<a id="54" href="#54">§54</a>
 "Release Bonus."
 Every time a new release comes out, you get a bonus equal to the amount of
 "footprint items" since the last release multiplied by
-<span id="53.min-per-claim">2</span> minutes
+<span id="54.min-per-claim">2</span> minutes
 (routine items like `Ping` will be excluded).
-The bonus can't be bigger than <span id="53.max">4</span> hours.
+The bonus can't be bigger than <span id="54.max">4</span> hours.
 
 ## Quality Assurance (<a id="QA">QA</a>)
 
