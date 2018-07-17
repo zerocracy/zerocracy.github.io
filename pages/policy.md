@@ -31,7 +31,7 @@ You can talk to Zerocrat in:
 
 <a id="1" href="#1">§1</a>
 "Invite."
-To start working with us you have to be invited by someone we already know,
+To start working with us you have to be invited by someone we already know
 whose [reputation](#18) is over <del>+1024</del> <span id="1.min-rep" style="color:red">+256</span>.
 Fill out [this form](https://www.0crat.com/join) (you can do it every <span id="1.lag">16</span> days)
 and your resume will be assigned to one of our examiners, who can `invite` you or reject
@@ -120,7 +120,7 @@ The 0/100 rule is simple: it's either done or not.
 <a id="8" href="#8">§8</a>
 "Ten Days."
 If you don't complete a job in <span id="8.days">10</span> days Zerocrat _may_ take it away from you.
-You will get no money and a penalty as big as the the [budget](#4) of the job, if this happens.
+You will get no money and a penalty as big as the [budget](#4) of the job, if this happens.
 
 <a id="29" href="#29">§29</a>
 "Pay per Bug."
@@ -167,10 +167,10 @@ To tell us how exactly you want to receive them just say `wallet` to Zerocrat.
 When Zerocrat fails to pay, for any reason, the payment amount will be added to our "debt" to you.
 We attempt to pay the debt once a day, if it's larger than <span id="46.threshold">$64</span>
 or older than <span id="46.days">32</span> days.
-Possible reasons of not paying immedidately include, but not limited to:
+Possible reasons of not paying immediately include, but not limited to:
 
   * Network connection with the payment gateway is broken;
-  * Temprorary issues with our accounts in PayPal, Coinbase, etc.;
+  * Temporary issues with our accounts in PayPal, Coinbase, etc.;
   * The amount is smaller than <span id="46.min">$24</span> (to avoid big commissions);
   * We are broke (just kidding).
 
@@ -185,13 +185,13 @@ If you are not a member of a project, you can only earn [points](#18) there, not
 <a id="43" href="#43">§43</a>
 "Graduation."
 When your [reputation](#8) reaches <span id="43.threshold">+1024</span>,
-Zerocrat will automaticatly set himself as your mentor.
+Zerocrat will automatically set himself as your mentor.
 Your mentor will receive a one-time bonus of <span id="43.bonus">$32</span> when this happens.
 
 <a id="44" href="#44">§44</a>
 "Expel."
 When your [reputation](#8) drops lower than <span id="44.threshold">-256</span>,
-Zerocrat will automaticatly disconnect you from your mentor,
+Zerocrat will automatically disconnect you from your mentor,
 clean out your reputation and you will have to [start over](#1).
 
 <a id="45" href="#45">§45</a>
@@ -314,7 +314,7 @@ To attract programmers to your project, you can publish it on the
 [Board](https://www.0crat.com/board); just say `publish on` to Zerocrat in order to do it.
 Your [reputation](#18) has to be over <span id="26.min-rep">+1024</span> and
 you will be charged <span id="26.price">32</span> [points](#17) for this.
-When your project is published, its statistical information will be visible in the Web.
+When your project is published, its statistical information will be visible on the Web.
 You can unpublish it anytime, just say `publish off`.
 
 <a id="37" href="#37">§37</a>
@@ -435,7 +435,7 @@ You will be paid <span id="30.price">+8</span> minutes for the review, no matter
 The quality of a job is "good" if all of the following requirements are met:
 
   * The formatting of a job description, as well as all messages inside it,
-    follows [Github Markdown](https://help.github.com/articles/github-flavored-markdown/) style;
+    follows [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown/) style;
   * Messages in a job
     [always](http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html#4-avoid-noiseaddress-your-comments)
     start with a name of a user they are addressed to;
@@ -460,7 +460,7 @@ The quality of a job is "good" if all of the following requirements are met:
   * All commit messages have links to issues ([discuss](https://github.com/zerocracy/datum/issues/295)).
 
 When you find any rules violation, ask job performer to confirm that
-your complains are understood and he/she will try to avoid those mistakes
+your complaints are understood, and he/she will try to avoid those mistakes
 in the future. Until you get a confirmation,
 [don't give](https://github.com/zerocracy/datum/issues/301) any quality mark;
 don't wait for more than five days though.
