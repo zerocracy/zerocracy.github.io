@@ -43,8 +43,7 @@ To make a project manageable by a computer we use a strict
     outside of GitHub tickets.
   * [**&#35;NoObligations**](http://www.yegor256.com/2014/04/13/no-obligations-principle.html):<br/>
     We encourage programmers to work only when they find it profitable.
-  * [**&#35;NoHelp**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html)
-    ([video](https://www.youtube.com/watch?v=mTAmoCEiizU)):<br/>
+  * [**&#35;NoHelp**](http://www.yegor256.com/2015/02/16/it-is-not-a-school.html):<br/>
     We don't teach programmers and we don't help them.
   * [**&#35;NoAltruism**](http://www.yegor256.com/2015/01/15/how-to-cut-corners.html)
     ([video](https://www.youtube.com/watch?v=vXUwE3FGfpg)):<br/>
