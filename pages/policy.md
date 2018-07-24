@@ -98,6 +98,16 @@ the projects. They do not affect your cash income, but do affect the impression 
 has about you&mdash;the more points you have the more disciplined developer you are.
 Zerocrat takes into account only the points you earned over the last <span id="18.days">90</span> days.
 
+<a id="55" href="#55">§55</a>
+"Metrics."
+Besides the points of reputation Zerocrate gathers also various other metrics
+like speed of delivery, verbosity (number of comments), unaccepted bug reports
+and few others. All of them might affect the impression Zerocrat has about you,
+e.g. if you deliver tasks faster than others with less discussions it means
+that you are more disciplined developer. Some of the metrics are gather only
+for informational purposes. Zerocrat takes into account only the metrics gathered
+over the last <span id="55.days">90</span> days.
+
 <a id="5" href="#5">§5</a>
 "Boost Factor."
 A job may receive a boost factor, which will increase or decrease its budget.
