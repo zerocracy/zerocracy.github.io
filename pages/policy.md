@@ -100,13 +100,17 @@ Zerocrat takes into account only the points you earned over the last <span id="1
 
 <a id="55" href="#55">§55</a>
 "Metrics."
-Besides the points of reputation Zerocrate gathers also various other metrics
-like speed of delivery, verbosity (number of comments), unaccepted bug reports
-and few others. All of them might affect the impression Zerocrat has about you,
-e.g. if you deliver tasks faster than others with less discussions it means
-that you are more disciplined developer. Some of the metrics are gather only
-for informational purposes. Zerocrat takes into account only the metrics gathered
-over the last <span id="55.days">90</span> days.
+Besides reputation points, Zerocrat also gathers various other metrics like:
+
+  * speed of delivery,
+  * verbosity,
+  * unaccepted bug reports (blanks),
+  * number of resignations on delay (negligence).
+
+All of them might affect the impression Zerocrat has about you,
+e.g. if you deliver tasks faster, and with fewer comments, it means you are a more
+disciplined developer. Some of the metrics are gathered for informational purposes
+only. Zerocrat takes into account only the metrics gathered over the last <span id="55.days">90</span> days.
 
 <a id="5" href="#5">§5</a>
 "Boost Factor."
