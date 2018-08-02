@@ -96,21 +96,11 @@ You will also get as many positive [points](#18) as many minutes you are paid fo
 You may earn positive and negative points for doing good and bad things in
 the projects. They do not affect your cash income, but do affect the impression Zerocrat
 has about you&mdash;the more points you have the more disciplined developer you are.
-Besides reputation points, Zerocrat also gathers various other metrics like:
-
-  * speed of delivery,
-  * verbosity,
-  * unaccepted bug reports (blanks),
-  * number of resignations on delay (negligence).
-
-All of them might affect the impression Zerocrat has about you in simalr way as
-reputation points, e.g. if you deliver tasks faster, and with fewer comments,
-it means you are a more disciplined developer. Some of the metrics are gathered for
-informational purposes only.
-Zerocrat takes into account only the metrics you earned over the last <span id="18.days">90</span> days.
-
-<a id="55" href="#55">§55</a>
-"Metrics."
+Besides reputation points, Zerocrat also records your average speed of delivery (how fast
+you solve an issue, or do a code review). If you deliver faster Zerocrat will more
+frequently assign you new tasks.
+Zerocrat takes into account only the reputation points and speed of delivery
+you earned over the last <span id="18.days">90</span> days.
 
 <a id="5" href="#5">§5</a>
 "Boost Factor."
