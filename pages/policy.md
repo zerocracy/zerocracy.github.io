@@ -280,7 +280,7 @@ You can add funds to the project by VISA or MasterCard via [Stripe](https://www.
 at the project web page. Fund will be used to pay programmers for job
 completion and to pay Zerocracy management [fee](#23).
 We will automatically recharge your card when the project runs out of funds.
-To disable recharing use [pause/activate](#24) option.
+To disable recharging use [pause/activate](#24) option.
 
 <a id="22" href="#22">§22</a>
 "Refunds."
