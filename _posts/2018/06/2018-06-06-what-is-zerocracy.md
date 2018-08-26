@@ -8,6 +8,7 @@ description: |
   and helps optimize costs and increase quality.
 permalink: toc.html
 no_disqus: true
+hidden: true
 ---
 
 Despite all our efforts,
