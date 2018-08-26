@@ -18,12 +18,22 @@ exclude:
   - Gemfile
   - LICENSE.txt
   - .travis.yml
-
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
+
+permalink: :year/:month/:day/:title.html
+paginate: 20
+paginate_path: "p/:num"
+excerpt_separator: <!--more-->
 
 feed:
   title: Zerocracy.com
   subtitle: A project manager that never sleeps
   path: rss.xml
+
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false

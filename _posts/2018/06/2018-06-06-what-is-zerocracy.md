@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "What Is Zerocracy?"
 date: 2018-06-06
 description: |
@@ -7,6 +7,7 @@ description: |
   all experience in software development projects,
   and helps optimize costs and increase quality.
 permalink: toc.html
+no_disqus: true
 ---
 
 Despite all our efforts,
@@ -24,6 +25,9 @@ management, not technical incompetence. To solve this, we
 recommend <del>replacing</del> empowering a human project manager with
 [Zerocrat](http://www.yegor256.com/2018/03/21/zerocracy-announcement.html),
 a hosted chat bot.
+
+<!--more-->
+
 To make a project manageable by a computer we use a strict
 [Policy](/policy.html) which derives the following principles from the
 [eXtremely Distributed Software Development](http://www.xdsd.org) methodology:
