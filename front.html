@@ -8,9 +8,12 @@ description: |
 permalink: /index.html
 ---
 <style>
-.center {
-  height: 30em;
-  max-height: 100%;
+header,
+footer,
+article {
+  text-align: center;
+  padding-top: .5em;
+  padding-bottom: .5em;
 }
 .highlight {
   background-color: #275a90;
@@ -18,18 +21,18 @@ permalink: /index.html
   padding: 0 .3em;
 }
 </style>
-<div class="center">
-  <header>
-    <nav>
-      <ul>
-        <li>
-          <a href="/">
-            <img src="//www.0crat.com/svg/logo.svg" style="width:128px;height:128px;" alt="Zerocracy logo"/>
-          </a>
-        </li>
-      </ul>
-    </nav>
-  </header>
+<header>
+  <nav>
+    <ul>
+      <li>
+        <a href="/">
+          <img src="//www.0crat.com/svg/logo.svg" style="width:128px;height:128px;" alt="Zerocracy logo"/>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<article>
   <p style="font-size:48px;font-weight:bold;">zerocracy</p>
   <!--
   <p>
@@ -48,44 +51,48 @@ permalink: /index.html
     and one of the <a href="https://www.0crat.com/team">architects</a>
     will guide you through.
   </p>
-  <p>
-    <a href="/toc.html" class="highlight">How It Works?</a>
-  </p>
-  <footer>
-    <nav>
-      <ul>
-        <li>
-          <a href="https://github.com/zerocracy/">GitHub</a>
-        </li>
-        <li>
-          <a href="https://t.me/zerocracy">Telegram</a>
-        </li>
-        <li>
-          <a href="https://twitter.com/0crat">Twitter</a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/zerocracy/">Facebook</a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/channel/UCxZAzmY_OPw40I1-YStWqhw">YouTube</a>
-        </li>
-      </ul>
-    </nav>
-    <nav>
-      <ul>
-        <li>
-          <a href="/faq.html">FAQ</a>
-        </li>
-        <li>
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li>
-          <a href="/policy.html">Policy</a>
-        </li>
-        <li>
-          <a href="/terms.html">Terms</a>
-        </li>
-      </ul>
-    </nav>
-  </footer>
-</div>
+  <form method="POST" action="https://www.mailanes.com/subscribe?list=4">
+    <input type="email" name="email" autofocus="true" placeholder="Your email..." size="24"/>
+    <button type="submit">Explain me!</button>
+  </form>
+</article>
+<footer>
+  <nav>
+    <ul>
+      <li>
+        <a href="https://github.com/zerocracy/">GitHub</a>
+      </li>
+      <li>
+        <a href="https://t.me/zerocracy">Telegram</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/0crat">Twitter</a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/zerocracy/">Facebook</a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCxZAzmY_OPw40I1-YStWqhw">YouTube</a>
+      </li>
+    </ul>
+  </nav>
+  <nav>
+    <ul>
+      <li>
+        <a href="/toc.html">How It Works?</a>
+      </li>
+      <li>
+        <a href="/faq.html">FAQ</a>
+      </li>
+      <li>
+        <a href="/blog.html">Blog</a>
+      </li>
+      <li>
+        <a href="/policy.html">Policy</a>
+      </li>
+      <li>
+        <a href="/terms.html">Terms</a>
+      </li>
+    </ul>
+  </nav>
+</footer>
