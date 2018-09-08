@@ -15,7 +15,8 @@ to be fast. The [§36](http://www.zerocracy.com/policy.html#36) pays for
 quicker delivery and the [§8](http://www.zerocracy.com/policy.html#8) penalizes
 slow movers by resigning them if they don't close in
 ten days (at the time of writing). Why ten days, if our tasks are
-[very small]() and how long does it really take to close an average task?
+[very small](https://www.yegor256.com/2017/11/28/microtasking.html)
+and how long does it really take to close an average task?
 Can we do something to close them sooner?
 
 <!--more-->
