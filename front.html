@@ -63,10 +63,12 @@ article {
     $('#utm_source').val(param('utm_source'));
     $('#utm_medium').val(param('utm_medium'));
     $('#utm_campaign').val(param('utm_campaign'));
+    $('#referrer').val(document.referrer);
   });
   </script>
   <form method="POST" action="https://www.mailanes.com/subscribe?list=4">
     <input type="hidden" name="source" value="www.zerocracy.com"/>
+    <input type="hidden" name="referrer" id="referrer" value=""/>
     <input type="hidden" name="utm_source" id="utm_source" value=""/>
     <input type="hidden" name="utm_medium" id="utm_medium" value=""/>
     <input type="hidden" name="utm_campaign" id="utm_campaign" value=""/>
