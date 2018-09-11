@@ -38,16 +38,17 @@ Important documents:<br/>
 [FAQ](http://www.zerocracy.com/faq.html).
 
 CEO:<br/>
-[Yegor Bugayenko](http://www.yegor256.com)
+[Yegor Bugayenko](http://www.yegor256.com).
 
 Address:<br/>
-Ste 470, 555 Bryant Str, Palo Alto, CA 94301, USA
+Ste 470, 555 Bryant Str, Palo Alto, CA 94301, USA.
 
 Founded:<br/>
-September 2016
+September 2016.
 
 Email:<br/>
-[team@zerocracy.com](mailto:team@zerocracy.com)
+[team@zerocracy.com](mailto:team@zerocracy.com).
 
-Logo (SVG):<br/>
-http://www.0crat.com/svg/logo.svg
+Logo:<br/>
+[SVG](http://www.0crat.com/svg/logo.svg),
+[PNG](http://www.zerocracy.com/logo-1024.png).
