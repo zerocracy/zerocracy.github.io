@@ -26,11 +26,11 @@ not the other way around.
 Computers will plan and control our routine
 work, while we will do what we love to
 do—real work.
-AI actually can replace them, decreasing
-project failure rate.
+AI actually can already replace managers in software projects, decreasing project failure rate.
 Zerocracy is an AI-empowered chatbot that automates the majority
 of routine and boring operations project managers often fail to
-do right in software projects.
+do right in software projects, and helps increase
+the quality of product, decrease costs, and improve maintainability.
 
 Important documents:<br/>
 [Executive Summary](http://papers.zold.io/executive-summary.pdf),
