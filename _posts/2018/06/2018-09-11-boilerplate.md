@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boilerplate texts"
+title: "Boilerplate pieces"
 date: 2018-09-11
 description: |
   Zerocracy is a very unique platform, where programmers
@@ -28,9 +28,9 @@ work, while we will do what we love to
 do—real work.
 AI actually can replace them, decreasing
 project failure rate.
-Zerocracy is an AI-empowered chat bot that automates the majority
-of routine and boring operations project managers are supposed to
-do in software projects, but usually fail.
+Zerocracy is an AI-empowered chatbot that automates the majority
+of routine and boring operations project managers often fail to
+do right in software projects.
 
 Important documents:<br/>
 [Exexutive Summary](http://papers.zold.io/executive-summary.pdf),
