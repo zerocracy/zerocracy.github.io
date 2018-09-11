@@ -34,7 +34,7 @@ do right in software projects.
 
 Important documents:<br/>
 [Executive Summary](http://papers.zold.io/executive-summary.pdf),
-[Investors Deck](http://papers.zold.io/zerocracy-deck.pdf),
+[Pitch Deck](http://papers.zold.io/zerocracy-deck.pdf),
 [FAQ](http://www.zerocracy.com/faq.html).
 
 CEO:<br/>
