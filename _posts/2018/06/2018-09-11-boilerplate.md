@@ -33,7 +33,7 @@ of routine and boring operations project managers often fail to
 do right in software projects.
 
 Important documents:<br/>
-[Exexutive Summary](http://papers.zold.io/executive-summary.pdf),
+[Executive Summary](http://papers.zold.io/executive-summary.pdf),
 [Investors Deck](http://papers.zold.io/zerocracy-deck.pdf),
 [FAQ](http://www.zerocracy.com/faq.html).
 
