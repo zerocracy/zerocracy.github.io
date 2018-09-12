@@ -5,8 +5,8 @@ layout: default
   <h1>
     <span>{{ page.title }}</span>
   </h1>
-  {% if page.author %}
-    <ul class="subline">
+  <ul class="subline">
+    {% if page.author %}
       <li>
         {% if page.author.twitter %}
           <i class="icon icon-twitter notranslate" aria-hidden="true"></i>
@@ -17,18 +17,18 @@ layout: default
           <a href="https://linkedin.com/in/{{ page.author.linkedin }}">{{ page.author.name }}</a>
         {% endif %}
       </li>
-      <li>
-        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
-          {{ page.date | date: "%-d %B %Y" }}
-        </time>
-      </li>
-      <!--
-      <li>
-        <a href="{{ site.url }}{{ page.url }}#disqus_thread" itemprop="discussionUrl">comments</a>
-      </li>
-      -->
-    </ul>
-  {% endif %}
+    {% endif %}
+    <li>
+      <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%-d %B %Y" }}
+      </time>
+    </li>
+    <!--
+    <li>
+      <a href="{{ site.url }}{{ page.url }}#disqus_thread" itemprop="discussionUrl">comments</a>
+    </li>
+    -->
+  </ul>
   <div>{{ content }}</div>
 </article>
 
