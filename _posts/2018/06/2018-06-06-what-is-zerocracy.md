@@ -79,6 +79,13 @@ a hosted chat bot.
 
 <!--more-->
 
+<aside style="text-align:right;">
+<span style="color:darkgreen;font-weight:bold;font-size:5em;text-align:rig">30x</span><br/>
+Under the management of Zerocrat programmers
+are up to <a href="https://www.yegor256.com/2014/04/11/cost-of-loc.html">thirty times</a>
+more effective.
+</aside>
+
 To make a project manageable by a computer we use a strict
 [Policy](/policy.html) which derives the following principles from the
 [eXtremely Distributed Software Development](http://www.xdsd.org) methodology:
@@ -190,6 +197,13 @@ We realize that our approach is very
 traditional methods of management. In our experience
 our way of managing projects gives a lot of benefits to
 all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.html):
+
+<aside style="text-align:right;">
+<span style="color:#275a90;font-weight:bold;font-size:3em;">$40+/hr</span><br/>
+We work only with senior programmers/freelancers
+and pay them <a href="https://www.yegor256.com/2014/10/29/how-much-do-you-cost.html">above-the-market</a>
+hourly rates.
+</aside>
 
   * Programmers are more [motivated](http://www.yegor256.com/2017/09/19/what-motivates-me.html);
   * Costs are [lower](http://www.yegor256.com/2014/04/11/cost-of-loc.html);
