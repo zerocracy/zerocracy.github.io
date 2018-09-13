@@ -75,7 +75,7 @@ We believe that most of the above is caused by broken
 management, not technical incompetence. To solve this, we
 recommend <del>replacing</del> empowering a human project manager with
 [Zerocrat](http://www.yegor256.com/2018/03/21/zerocracy-announcement.html),
-a hosted chat bot.
+a hosted <a class="highlight">chatbot</a>.
 
 <!--more-->
 
