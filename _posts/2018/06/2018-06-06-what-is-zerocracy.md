@@ -196,5 +196,5 @@ all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.htm
   * Quality is [higher](http://www.yegor256.com/2016/08/05/distributed-teams-are-higher-quality.html);
   * Maintainability is higher and turnover doesn't hurt us.
 
-To try it out, [submit an RfP](https://www.0crat.com/rfp)
+To try it out, <a href="https://www.0crat.com/rfp" class="highlight">submit an RfP</a>
 and one of [our architects](https://www.0crat.com/team) will get in touch with you.
