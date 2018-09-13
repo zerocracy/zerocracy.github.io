@@ -196,7 +196,8 @@ Clearwater, Florida
 We realize that our approach is very
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
 traditional methods of management. In our experience
-our way of managing projects gives a lot of benefits to
+our way of managing projects gives a lot of
+<a class="highlight">benefits</a> to
 all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.html):
 
 <aside style="text-align:right;">
