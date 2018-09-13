@@ -35,6 +35,11 @@ aside {
   font-size: .8em;
   line-height: 1.3em;
 }
+@media (max-width: 700px) {
+  aside {
+    float: none;
+  }
+}
 </style>
 
 <script type="text/javascript">
