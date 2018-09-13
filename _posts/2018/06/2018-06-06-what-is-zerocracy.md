@@ -88,7 +88,8 @@ more effective.
 
 To make a project manageable by a computer we use a strict
 [Policy](/policy.html) which derives the following principles from the
-[eXtremely Distributed Software Development](http://www.xdsd.org) methodology:
+[eXtremely Distributed Software Development](http://www.xdsd.org)
+<a class="highlight">methodology</a>:
 
 <div style="text-align:center;margin-top:4em;margin-bottom:4em;">
 
