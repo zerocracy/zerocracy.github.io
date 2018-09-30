@@ -30,8 +30,8 @@ It's only the reputation points that are deducted.
 Second, ask yourself, why do you have to refuse tasks sometimes?
 In most cases, this happens when you can't find a way to complete them
 within their allocated budgets. Why can't you do that? Well, sorry for being
-harsh, but you can't do that because you are not as good as Zerocrat
-expects you to be.
+harsh, but you can't do that because you are not
+<del>as good as Zerocrat expects you to be</del> passionate enough.
 
 I wrote a blog post about it some time ago, on my personal blog:
 [_Either Bugs or Pull Requests ... or You Are Out_](https://www.yegor256.com/2018/07/24/bugs-or-pull-requests.html).
@@ -48,8 +48,8 @@ Zerocrat understand who is who.
 
 Zerocrat relies on the reputation of programmers in order to make the election
 decision for the next task. The higher your reputation the bigger the chance
-you will be assigned to the next job. Your refusals demonstrate that you are
-not skilled enough to handle tasks of any complexity.
+you will be assigned to the next job. Your refusals demonstrate your
+unreliability.
 
 Thus, even though we don't blame you for refusals, we want to know who is
 refusing more frequently, in order to make our management decisions.
