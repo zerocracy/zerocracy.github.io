@@ -37,8 +37,8 @@ this way is not enough. And yeah, replacing usual office with a distant
 office will not change anything, itʼll even provoke laziness.
 
 In our software teams we have tried many ways how to manage 350+ people to work
-at home productively. And real changes has come when we started to pay not per working time,
-but for delivered result. That was the turning point. We tested this approach
+at home productively. And real changes has come only when we started to pay not per working time,
+but for the delivered result. That was the turning point. We tested this approach
 on dozens of projects and for the last few years of implementing this method,
 development cost [was reduced](https://www.yegor256.com/2014/04/11/cost-of-loc.html)
 3-5 times, while programmers
