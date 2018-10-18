@@ -18,8 +18,8 @@ projects:
     license: MIT
     sources: https://github.com/yegor256/takes
     stack: Java, XML, XSLT, Velocity
-    loc: ?
-    hoc: ?
+    loc: "?"
+    hoc: "?"
     team: 7
     start: 2015/Feb
     case: |
@@ -29,13 +29,13 @@ projects:
   cactoos:
     name: Cactoos
     href: https://www.cactoos.org/
-    logo: https://www.cactoos.org/logo.svg
+    logo: http://www.cactoos.org/logo.svg
     width: 64
     license: MIT
     sources: https://github.com/yegor256/cactoos
     stack: Java, OOP
-    loc: ?
-    hoc: ?
+    loc: "?"
+    hoc: "?"
     team: 15
     start: 2017/May
     case: |
@@ -69,8 +69,8 @@ projects:
     license: MIT
     sources: https://github.com/zold-io/zold
     stack: Ruby, Sinatra, XML, Cryptocurrency
-    loc: ?
-    hoc: ?
+    loc: "?"
+    hoc: "?"
     team: 8
     start: 2018/Jan
     case: |
@@ -105,8 +105,8 @@ projects:
     license: MIT
     sources: https://github.com/yegor256/tacit
     stack: CSS, HTML
-    loc: ?
-    hoc: ?
+    loc: "?"
+    hoc: "?"
     team: 8
     start: 2015/Apr
     case: |
@@ -260,6 +260,9 @@ projects:
 td, th {
   font-size: .9em;
   line-height: 1.3em;
+}
+td p {
+  margin-bottom: 0;
 }
 @media all and (max-width: 1024px) {
   table {
