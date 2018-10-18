@@ -12,21 +12,36 @@ hidden: true
 projects:
   takes:
     name: Takes
-    href: http://www.takes.org/
-    logo: http://www.takes.org/clapper.jpg
+    href: https://www.takes.org/
+    logo: https://www.takes.org/clapper.jpg
     width: 64
     license: MIT
     sources: https://github.com/yegor256/takes
     stack: Java, XML, XSLT, Velocity
-    loc: 12K
-    hoc: 23K
+    loc: ?
+    hoc: ?
     team: 7
     start: 2015/Feb
-    lifetime: 2
     case: |
       True Object-Oriented and Immutable Java Web Development Framework,
       a replacement of outdated SpringMVC and Play, read this blog post:
       [Java Web App Architecture In Takes Framework](http://www.yegor256.com/2015/03/22/takes-java-web-framework.html)
+  cactoos:
+    name: Cactoos
+    href: https://www.cactoos.org/
+    logo: https://www.cactoos.org/logo.svg
+    width: 64
+    license: MIT
+    sources: https://github.com/yegor256/cactoos
+    stack: Java, OOP
+    loc: ?
+    hoc: ?
+    team: 15
+    start: 2017/May
+    case: |
+      Object-Oriented library of Java primitives, an alternative
+      to Google Guava and Apache Commons, making code more elegant
+      and cleaer, according to the principles of [Elegant Objects](https://www.elegantobjects.org).
   rultor:
     name: Rultor
     href: http://www.rultor.com/
@@ -46,6 +61,23 @@ projects:
       about it: [Every Build in Its Own Docker Container](http://www.yegor256.com/2014/07/29/docker-in-rultor.html),
       [Rultor + Travis](http://www.yegor256.com/2014/07/31/travis-and-rultor.html) and
       [Rultor, a Merging Bot](http://www.yegor256.com/2014/07/24/rultor-automated-merging.html)
+  zold:
+    name: Zold
+    href: https://www.zold.io/
+    logo: https://www.zold.io/logo.png
+    width: 64
+    license: MIT
+    sources: https://github.com/zold-io/zold
+    stack: Ruby, Sinatra, XML, Cryptocurrency
+    loc: ?
+    hoc: ?
+    team: 8
+    start: 2018/Jan
+    case: |
+      An experimental cryptocurrency for fast micro payments,
+      based on the proof-of-work principle, but without the Blockchain. More
+      information about it at the [White Paper](https://papers.zold.io/wp.pdf).
+      There is also a [blog](https://blog.zold.io), where regularly posts new articles.
   jcabi.com:
     name: JCabi
     href: http://www.jcabi.com/
@@ -58,7 +90,6 @@ projects:
     hoc: 499K
     team: 27
     start: 2012/Apr
-    lifetime: 110
     case: |
       Useful Java components, including AOP aspects, DynamoDB SDK, MySQL Maven Plugin, etc.
       Check these articles about the most interesting jcabi components:
@@ -66,6 +97,23 @@ projects:
       [Object-Oriented Github API](http://www.yegor256.com/2014/05/14/object-oriented-github-java-sdk.html),
       [MySQL Maven Plugin](http://www.yegor256.com/2014/05/21/mysql-maven-plugin.html), and
       [Object-Oriented DynamoDB API](http://www.yegor256.com/2014/04/14/jcabi-dynamo-java-api-of-aws-dynamodb.html).
+  tacit:
+    name: Tacit
+    href: https://github.com/yegor256/tacit
+    logo: https://github.com/yegor256/tacit/raw/master/tacit_logo.png
+    width: 64
+    license: MIT
+    sources: https://github.com/yegor256/tacit
+    stack: CSS, HTML
+    loc: ?
+    hoc: ?
+    team: 8
+    start: 2015/Apr
+    case: |
+      CSS framework without a single
+      "class," especially for those who don't understand anything in graphic
+      design, but want their websites to look attractive, announced in
+      [this blog post](https://www.yegor256.com/2015/apr/2015-04-13-tacit-css-framework-for-dummies.html).
   stateful.co:
     name: Stateful
     href: http://www.stateful.co/
@@ -297,7 +345,13 @@ li {
           <td class="desk mono" style="text-align:right">{{ p[1].loc }}<br/>{{ p[1].hoc }}</td>
           <td class="desk mono" style="text-align:right">{{ p[1].team }}</td>
           <td class="desk">{{ p[1].start }}</td>
-          <td class="desk mono" style="text-align:right">{{ p[1].lifetime }}</td>
+          <td class="desk mono" style="text-align:right">
+            {% if p[1].lifetime %}
+              {{ p[1].lifetime }}
+            {% else %}
+              &mdash;
+            {% endif %}
+          </td>
           <td>{{ p[1].case | markdownify }}</td>
         </tr>
       {% endfor %}
