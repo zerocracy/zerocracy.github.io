@@ -183,7 +183,11 @@ all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.htm
 
 The platform was launched to the market in May 2018. Since then
 we've already managed to deliver what we promise to a number of
-happy clients, this is what [they say](/testimonials.html) about us.
+<a class="highlight">happy clients</a>, this is what [they say](/testimonials.html) about us.
+
+Here is our <a class="highlight">portfolio</a>,
+a short list of projects we completed over the last few years
+using our management platform.
 
 To try it out, <a href="https://www.0crat.com/rfp" class="highlight">submit an RfP</a>
 and one of [our architects](https://www.0crat.com/team) will get in touch with you.
