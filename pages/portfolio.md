@@ -11,7 +11,7 @@ no_disqus: true
 hidden: true
 projects:
   takes:
-    name: takes.org
+    name: Takes
     href: http://www.takes.org/
     logo: http://www.takes.org/clapper.jpg
     width: 64
@@ -28,7 +28,7 @@ projects:
       a replacement of outdated SpringMVC and Play, read this blog post:
       [Java Web App Architecture In Takes Framework](http://www.yegor256.com/2015/03/22/takes-java-web-framework.html)
   rultor:
-    name: rultor.com
+    name: Rultor
     href: http://www.rultor.com/
     logo: http://doc.rultor.com/images/logo.svg
     width: 64
@@ -47,7 +47,7 @@ projects:
       [Rultor + Travis](http://www.yegor256.com/2014/07/31/travis-and-rultor.html) and
       [Rultor, a Merging Bot](http://www.yegor256.com/2014/07/24/rultor-automated-merging.html)
   jcabi.com:
-    name: jcabi.com
+    name: JCabi
     href: http://www.jcabi.com/
     logo: http://img.jcabi.com/logo-square.svg
     width: 64
@@ -67,7 +67,7 @@ projects:
       [MySQL Maven Plugin](http://www.yegor256.com/2014/05/21/mysql-maven-plugin.html), and
       [Object-Oriented DynamoDB API](http://www.yegor256.com/2014/04/14/jcabi-dynamo-java-api-of-aws-dynamodb.html).
   stateful.co:
-    name: stateful.co
+    name: Stateful
     href: http://www.stateful.co/
     logo: http://img.stateful.co/pomegranate.svg
     width: 64
@@ -85,6 +85,7 @@ projects:
       [Atomic Counters at Stateful.co](http://www.yegor256.com/2014/05/18/cloud-autoincrement-counters.html)
       article explain the details.
   s3auth:
+    name: S3Auth
     href: http://www.s3auth.com
     logo: http://img.s3auth.com/logo.svg
     width: 128
@@ -103,6 +104,7 @@ projects:
       [This blog post](http://www.yegor256.com/2014/04/21/s3-http-basic-auth.html)
       explains its business case with more details.
   netbout:
+    name: Netbout
     href: http://www.netbout.com/
     logo: http://img.netbout.com/logo.svg
     width: 128
@@ -120,6 +122,7 @@ projects:
       then migrated to Java, then re-factored and simplified. At the moment,
       it is actively used in our internal communications.
   qulice:
+    name: Qulice
     href: http://www.qulice.com/
     logo: http://img.qulice.com/logo.svg
     width: 150
@@ -134,6 +137,7 @@ projects:
     case: |
       Static quality analysis toolkit for Java/Maven projects
   requs:
+    name: Requs
     href: http://www.requs.org/
     logo: http://img.requs.org/logo.svg
     width: 150
@@ -152,7 +156,7 @@ projects:
       article explains what is it for and how we're using this tool
       in our projects.
   xembly:
-    name: xembly.org
+    name: Xembly
     href: http://www.xembly.org/
     logo: http://img.xembly.org/logo-256x256.png
     width: 64
@@ -188,6 +192,7 @@ projects:
       builds an XML report. PDD and this tool are explained
       [here](http://www.yegor256.com/2009/03/04/pdd.html).
   phprack:
+    name: PHPRack
     href: http://www.phprack.com
     logo: http://img.phprack.com/logo.png
     width: 96
@@ -225,6 +230,10 @@ li {
     display: none;
     list-style: none;
   }
+}
+.footnotes {
+  font-size: .75em;
+  line-height: 1.3em;
 }
 </style>
 
@@ -275,9 +284,6 @@ li {
                 {{ p[0] }}
               {% endif %}
             </a>
-            {% if p[1].name %}
-              <div>{{ p[1].name }}</div>
-            {% endif %}
           </td>
           <td>
             {% if p[1].sources %}
