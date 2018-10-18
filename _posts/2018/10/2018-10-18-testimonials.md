@@ -29,6 +29,12 @@ hidden: true
 }
 </style>
 
+Here is a short list of the most notable quotes from our
+past and present customers. Remember, we launched the current
+version of Zerocrat in May 2018, and most of our clients
+are still in progress. We would be happy to see your name
+in this list eventually.
+
 <span class="quote"></span>
 After numerous failed attempts to bring
 projects to completion and release them to
@@ -72,3 +78,6 @@ Andre Buren<br/>
 CTO &amp; Tech Entrepreneur<br/>
 October 2016
 </p>
+
+Please, [email us](mailto:testimonial@zerocracy.com) if you want to say some nice words about our
+work and our platform.
