@@ -79,13 +79,6 @@ a hosted <a class="highlight">chatbot</a>.
 
 <!--more-->
 
-<aside style="text-align:right;">
-<span style="color:darkgreen;font-weight:bold;font-size:5em;text-align:rig">30x</span><br/>
-Under the management of Zerocrat programmers
-are up to <a href="https://www.yegor256.com/2014/04/11/cost-of-loc.html">thirty times</a>
-more effective.
-</aside>
-
 To make a project manageable by a computer we use a strict
 [Policy](/policy.html) which derives the following principles from the
 [eXtremely Distributed Software Development](http://www.xdsd.org)
@@ -176,23 +169,6 @@ no compromises
 no excuses
 -->
 
-<p style="padding-left:4em;margin-bottom:0;">
-<span style="float:left;font-size:4em;">“</span>
-After numerous failed attempts to bring
-projects to completion and release them to
-our customers, I have finally found the
-method to solve my problems. Zerocrat and
-the XDSD philosophy (especially
-microtasking) enable us to keep our team
-focused on what is important instead of
-chasing down wild geese.
-</p>
-<p style="text-align:right;margin-top:0;font-size:.8em;line-height:1.3em;">
-—Michael Juliano<br/>
-SunSoft ERP Consulting<br/>
-Clearwater, Florida
-</p>
-
 We realize that our approach is very
 [different](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html) from all other
 traditional methods of management. In our experience
@@ -200,17 +176,14 @@ our way of managing projects gives a lot of
 <a class="highlight">benefits</a> to
 all [stakeholders](http://www.yegor256.com/2016/07/10/software-project-roles.html):
 
-<aside style="text-align:right;">
-<span style="color:#275a90;font-weight:bold;font-size:3em;">$40+/hr</span><br/>
-We work only with senior programmers/freelancers
-and pay them <a href="https://www.yegor256.com/2014/10/29/how-much-do-you-cost.html">above-the-market</a>
-hourly rates.
-</aside>
-
   * Programmers are more [motivated](http://www.yegor256.com/2017/09/19/what-motivates-me.html);
   * Costs are [lower](http://www.yegor256.com/2014/04/11/cost-of-loc.html);
   * Quality is [higher](http://www.yegor256.com/2016/08/05/distributed-teams-are-higher-quality.html);
   * Maintainability is higher and turnover doesn't hurt us.
+
+The platform was launched to the market in May 2018. Since then
+we've already managed to deliver what we promise to a number of
+happy clients, this is what [they say](/testimonials.html) about us.
 
 To try it out, <a href="https://www.0crat.com/rfp" class="highlight">submit an RfP</a>
 and one of [our architects](https://www.0crat.com/team) will get in touch with you.
