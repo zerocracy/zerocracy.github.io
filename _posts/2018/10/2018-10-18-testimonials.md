@@ -22,6 +22,7 @@ hidden: true
   margin-top: 0;
   font-size: .8em;
   line-height: 1.3em;
+  margin-bottom: 8em;
 }
 .author:before {
   content: "—";
