@@ -388,8 +388,9 @@ li {
     <sup><strong>2</strong></sup> Team includes only active contributors to the source code and doesn't
       include testers, active users, and documentation writers.
     <sup><strong>3</strong></sup> Even though all projects are actively exploited by its users,
-      some of them are not in active development any more. Lifetime means
-      the total calendar time of active development by the project team, in weeks.
+      some of them are not in active development any more; lifetime means
+      the total calendar time of active development by the project team, in weeks;
+      if there is no number, the project is still in development.
     <sup><strong>4</strong></sup> HoC stands for "Hits of Code", calculated by
       <a href="https://github.com/teamed/hoc">hoc</a>, as explained in
       <a href="http://www.yegor256.com/2014/11/14/hits-of-code.html">Hits-of-Code Instead of SLoC</a>
