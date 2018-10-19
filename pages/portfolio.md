@@ -29,7 +29,7 @@ projects:
   cactoos:
     name: Cactoos
     href: https://www.cactoos.org/
-    logo: http://www.cactoos.org/logo.svg
+    logo: http://www.yegor256.com/images/books/elegant-objects/cactus.svg
     width: 64
     license: MIT
     sources: https://github.com/yegor256/cactoos
