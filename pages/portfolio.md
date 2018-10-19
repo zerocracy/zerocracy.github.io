@@ -293,7 +293,7 @@ li {
     <ul>
       <li>
         <a href="/">
-          <img src="//www.0crat.com/svg/logo.svg" class="logo" alt="Zerocracy logo"/>
+          <img src="//www.0crat.com/svg/logo.svg" style="width:64px;height:64px;" alt="Zerocracy logo"/>
         </a>
       </li>
     </ul>
