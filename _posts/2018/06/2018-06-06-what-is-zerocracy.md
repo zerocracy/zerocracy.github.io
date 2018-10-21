@@ -87,7 +87,7 @@ To make a project manageable by a computer we use a strict
 <div class="thumb">
 <a href="https://www.youtube.com/watch?v=AwrMKTFyohg"><img src="https://i.ytimg.com/vi/AwrMKTFyohg/mqdefault.jpg"/></a>
 <br/>
-<a href="http://www.yegor256.com/2016/09/27/command-control-innovate.html">#NoMagic</a>
+<a class="highlight" href="http://www.yegor256.com/2016/09/27/command-control-innovate.html">#NoMagic</a>
 <br/>
 <span class="subtitle">
   1) We rely on discipline and control much more than on trust and talent.
@@ -97,7 +97,7 @@ To make a project manageable by a computer we use a strict
 <div class="thumb">
 <a href="https://www.youtube.com/watch?v=ODxm7w2DE-g"><img src="https://i.ytimg.com/vi/ODxm7w2DE-g/mqdefault.jpg"/></a>
 <br/>
-<a href="http://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html">#NoSalaries</a>
+<a class="highlight" href="http://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html">#NoSalaries</a>
 <br/>
 <span class="subtitle">
   2) We pay <a href="http://www.yegor256.com/2018/01/09/micro-budgeting.html">fixed fees</a>
@@ -109,7 +109,7 @@ To make a project manageable by a computer we use a strict
 <div class="thumb">
 <a href="https://www.youtube.com/watch?v=5Wjczt4w46A"><img src="https://i.ytimg.com/vi/5Wjczt4w46A/mqdefault.jpg"/></a>
 <br/>
-<a href="http://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html">#NoMeetings</a>
+<a class="highlight" href="http://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html">#NoMeetings</a>
 <br/>
 <span class="subtitle">
   3) We <a href="http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html">don't talk</a>
@@ -121,7 +121,7 @@ To make a project manageable by a computer we use a strict
 <div class="thumb">
 <a href="https://www.youtube.com/watch?v=vXUwE3FGfpg"><img src="https://i.ytimg.com/vi/vXUwE3FGfpg/mqdefault.jpg"/></a>
 <br/>
-<a href="http://www.yegor256.com/2015/01/15/how-to-cut-corners.html">#NoAltruism</a>
+<a class="highlight" href="http://www.yegor256.com/2015/01/15/how-to-cut-corners.html">#NoAltruism</a>
 <br/>
 <span class="subtitle">
   4) We encourage <a href="http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html">egoism</a> and
@@ -130,7 +130,7 @@ To make a project manageable by a computer we use a strict
 </div>
 
 <div class="thumb">
-<a href="http://www.yegor256.com/2014/04/13/no-obligations-principle.html">#NoObligations</a>
+<a class="highlight" href="http://www.yegor256.com/2014/04/13/no-obligations-principle.html">#NoObligations</a>
 <br/>
 <span class="subtitle">
   5) We encourage programmers to work only when they find it profitable.
@@ -138,7 +138,7 @@ To make a project manageable by a computer we use a strict
 </div>
 
 <div class="thumb">
-<a href="http://www.yegor256.com/2015/02/16/it-is-not-a-school.html">#NoHelp</a>
+<a class="highlight" href="http://www.yegor256.com/2015/02/16/it-is-not-a-school.html">#NoHelp</a>
 <br/>
 <span class="subtitle">
   6) We don't teach programmers and we don't help them.
@@ -146,7 +146,7 @@ To make a project manageable by a computer we use a strict
 </div>
 
 <div class="thumb">
-<a href="http://www.yegor256.com/2014/04/13/bugs-are-welcome.html">#NoFear</a>
+<a class="highlight" href="http://www.yegor256.com/2014/04/13/bugs-are-welcome.html">#NoFear</a>
 <br/>
 <span class="subtitle">
   7) We encourage programmers to find bugs and we
