@@ -23,8 +23,6 @@ hidden: true
   width: 256px;
 }
 .thumb .subtitle {
-  font-size: .8em;
-  line-height: 1.3em;
   display: inline-block;
 }
 aside {
@@ -92,7 +90,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2016/09/27/command-control-innovate.html">#NoMagic</a>
 <br/>
 <span class="subtitle">
-  We rely on discipline and control much more than on trust and talent.
+  1) We rely on discipline and control much more than on trust and talent.
 </span>
 </div>
 
@@ -102,7 +100,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html">#NoSalaries</a>
 <br/>
 <span class="subtitle">
-  We pay <a href="http://www.yegor256.com/2018/01/09/micro-budgeting.html">fixed fees</a>
+  2) We pay <a href="http://www.yegor256.com/2018/01/09/micro-budgeting.html">fixed fees</a>
   only for deliverables of <a href="http://www.yegor256.com/2017/11/28/microtasking.html">microtasks</a>,
   never per hour/month.
 </span>
@@ -114,7 +112,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html">#NoMeetings</a>
 <br/>
 <span class="subtitle">
-  We <a href="http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html">don't talk</a>
+  3) We <a href="http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html">don't talk</a>
   to each other <a href="http://www.yegor256.com/2016/08/23/communication-maturity.html">anywhere</a>
   outside of GitHub tickets.
 </span>
@@ -126,7 +124,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2015/01/15/how-to-cut-corners.html">#NoAltruism</a>
 <br/>
 <span class="subtitle">
-  We encourage <a href="http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html">egoism</a> and
+  4) We encourage <a href="http://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html">egoism</a> and
   <a href="http://www.yegor256.com/2018/03/06/speed-vs-quality.html">laziness</a>.
 </span>
 </div>
@@ -135,7 +133,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2014/04/13/no-obligations-principle.html">#NoObligations</a>
 <br/>
 <span class="subtitle">
-  We encourage programmers to work only when they find it profitable.
+  5) We encourage programmers to work only when they find it profitable.
 </span>
 </div>
 
@@ -143,7 +141,7 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2015/02/16/it-is-not-a-school.html">#NoHelp</a>
 <br/>
 <span class="subtitle">
-  We don't teach programmers and we don't help them.
+  6) We don't teach programmers and we don't help them.
 </span>
 </div>
 
@@ -151,8 +149,8 @@ To make a project manageable by a computer we use a strict
 <a href="http://www.yegor256.com/2014/04/13/bugs-are-welcome.html">#NoFear</a>
 <br/>
 <span class="subtitle">
-  We encourage programmers to find bugs and we
-  <a href="http://www.zerocracy.com/policy.html#29">pay them for it</a>.
+  7) We encourage programmers to find bugs and we
+  <a href="http://www.zerocracy.com/policy.html#29">pay them for that</a>.
 </span>
 </div>
 
