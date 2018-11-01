@@ -44,7 +44,7 @@ Address:<br/>
 Ste 470, 555 Bryant Str, Palo Alto, CA 94301, USA.
 
 Founded:<br/>
-September 2016.
+August 4, 2016.
 
 Email:<br/>
 [team@zerocracy.com](mailto:team@zerocracy.com).
