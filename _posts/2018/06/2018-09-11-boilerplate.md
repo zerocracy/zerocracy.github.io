@@ -52,3 +52,10 @@ Email:<br/>
 Logo:<br/>
 [SVG](http://www.0crat.com/svg/logo.svg),
 [PNG](http://www.zerocracy.com/logo-1024.png).
+
+Social networks:
+[Facebook](https://www.facebook.com/zerocracy/),
+[Twitter](https://twitter.com/0crat),
+[LinkedIn](https://www.linkedin.com/company/zerocracy/),
+[AngelList](https://angel.co/zerocracy),
+[Crunchbase](https://www.crunchbase.com/organization/zerocracy).
