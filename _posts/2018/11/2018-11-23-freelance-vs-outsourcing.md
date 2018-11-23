@@ -37,7 +37,7 @@ that the number of American employees working remotely rose to 43 percent in
 
 This growing army of telecommuters will need
 completely new methods of management, which have to be developed, tested, and
-prove their effectiveness. Traditional co-located teams, which are the core
+yet prove their effectiveness. Traditional co-located teams, which are the core
 element of any large outsourcing company, may find it difficult or even
 impossible to invent them. This may become a major problem for large outsources,
 unless they adapt to the rapidly changing market landscape.
