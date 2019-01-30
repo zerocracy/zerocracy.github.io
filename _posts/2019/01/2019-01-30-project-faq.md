@@ -27,9 +27,9 @@ After that PO can invite adviser (a person with high reputation > 1024), this pe
 it and assign roles. It can be done by project architect if he/she has enough reputation.
 
 Adviser helps to setup the project, suggests how to configure 0crat and repository,
-and with other Zerocracy-related questions. As a reward adviser will receive 4% or project funds from Zerocracy.
+and with other Zerocracy-related questions. As a reward adviser will receive 4% of project funds from Zerocracy.
 
-Adviser bootstrapping the project using `bootstrap` command, it assigns `PO` and `ARC` roles to adviser, 
+Adviser bootstrapps the project using `bootstrap` command, it assigns `PO` and `ARC` roles to adviser, 
 so he/she will be able to configure the project (https://www.zerocracy.com/policy.html#12).
 
 Then adviser can:
