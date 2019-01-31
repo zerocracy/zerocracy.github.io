@@ -20,16 +20,14 @@ don't have it.
 
 <!--more-->
 
-First of all product owner (PO) have to invite 0crat to slack channel (https://www.zerocracy.com/policy.html#11),
+To start new project:
+ 1. Product owner (PO) invites 0crat to slack channel (https://www.zerocracy.com/policy.html#11),
 this channel will be used to manage project and to configure 0crat's project settings.
-
-After that PO can invite adviser (a person with high reputation > 1024), this person will bootstrap 0crat, configure
+ 2. PO invites adviser (a person with high reputation > 1024), this person will bootstrap 0crat, configure
 it and assign roles. It can be done by project architect if he/she has enough reputation.
-
-Adviser helps to setup the project, suggests how to configure 0crat and repository,
+ 3. Adviser helps to setup the project, suggests how to configure 0crat and repository,
 and with other Zerocracy-related questions. As a reward adviser will receive 4% of project funds from Zerocracy.
-
-Adviser bootstrapps the project using `bootstrap` command, it assigns `PO` and `ARC` roles to adviser, 
+ 4. Adviser bootstrapps the project using `bootstrap` command, it assigns `PO` and `ARC` roles to adviser, 
 so he/she will be able to configure the project (https://www.zerocracy.com/policy.html#12).
 
 Then adviser can:
