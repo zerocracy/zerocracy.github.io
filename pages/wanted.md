@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Blog Posts Wanted"
 date: 2019-03-10
@@ -6,7 +6,7 @@ description: |
   If you are a member of Zerocracy, you may greatly
   contribute to our business by writing a blog post
   about your personal experience with Zerocracy.
-permalink: wanted.html
+permalink: /wanted.html
 ---
 
 If you are a member of Zerocracy, you may greatly contribute
@@ -30,7 +30,9 @@ You can use your own subject too, just make sure it somehow goes along with
 those proposed above.
 
 When you are ready to contribute, just create your post as a Markdown
-file in [this directory]() and submit a pull request. You can use the
-[`sample.md`]() page as an example. Your pull request will be reviewed
+file in [this directory](https://github.com/zerocracy/zerocracy.github.io/tree/master/_drafts)
+and submit a pull request. You can use the
+[`sample.md`](https://github.com/zerocracy/zerocracy.github.io/blob/master/_drafts/sample.md)
+page as an example. Your pull request will be reviewed
 and you will get zolds to the wallet associated with your GitHub name,
 in the [WTS](https://wts.zold.io).

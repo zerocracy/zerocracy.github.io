@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Rejections"
 date: 2018-10-17
