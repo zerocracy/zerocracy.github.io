@@ -29,7 +29,8 @@ These are the questions we need answers for:
 You can use your own subject too, just make sure it somehow goes along with
 those proposed above.
 
-When you are ready to contribute, just create your post as a Markdown
+When you are ready to contribute, just create your post as a
+[Markdown](https://en.wikipedia.org/wiki/Markdown)
 file in [this directory](https://github.com/zerocracy/zerocracy.github.io/tree/master/_drafts)
 and submit a pull request. You can use the
 [`sample.md`](https://github.com/zerocracy/zerocracy.github.io/blob/master/_drafts/sample.md)
