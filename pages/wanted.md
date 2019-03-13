@@ -16,7 +16,7 @@ of working with us. Each _published_ blog post will be paid:
 
 These are the questions we need answers for:
 
-  * What were your biggest problems when I was starting up?
+  * What were your biggest problems when you were starting up?
   * How do you plan your time with microtasking?
   * How much help do you get from your mentor?
   * Does it make sense to be a mentor?
