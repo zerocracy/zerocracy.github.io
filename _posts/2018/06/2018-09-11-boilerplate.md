@@ -69,6 +69,10 @@ Clients/projects:<br/>
 Programmers:<br/>
 [50-100](https://www.0crat.com/team)
 
-Investments:<br/>
+Capital raised:<br/>
 $800K+ (private money)
 
+Media about us:<br/>
+[CIO.com](https://www.cio.com/article/3326560/artificial-intelligence/workplace-ai-emerging-technologies-ethical-questions.html),
+[Voxxed](https://www.voxxed.com/blog/2016/02/xdsd-new-development-methodology-generation-freelance/),
+[SDTimes](http://sdtimes.com/xdsd-looks-to-manage-freelance-programmers/)
