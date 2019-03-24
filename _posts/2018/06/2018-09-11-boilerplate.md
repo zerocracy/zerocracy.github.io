@@ -59,3 +59,16 @@ Social networks:
 [LinkedIn](https://www.linkedin.com/company/zerocracy/),
 [AngelList](https://angel.co/zerocracy),
 [Crunchbase](https://www.crunchbase.com/organization/zerocracy).
+
+Employees:<br/>
+4-6
+
+Clients/projects:<br/>
+[10-15](https://www.0crat.com/board)
+
+Programmers:<br/>
+[50-100](https://www.0crat.com/team)
+
+Investments:<br/>
+$800K+ (private money)
+
