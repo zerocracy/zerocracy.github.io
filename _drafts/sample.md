@@ -1,3 +1,4 @@
+---
 layout: post
 title: "The Era of Freelance Is Coming"
 date: 2018-11-23

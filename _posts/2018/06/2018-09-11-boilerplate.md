@@ -11,7 +11,7 @@ no_disqus: true
 hidden: true
 ---
 
-Oneliner:<br/>
+One-liner:<br/>
 Zerocracy is an AI-empowered project management chatbot that
 automates routine processes in software development projects,
 helping managers to coordinate programmers in distributed and co-located teams.
@@ -53,7 +53,7 @@ Logo:<br/>
 [SVG](http://www.0crat.com/svg/logo.svg),
 [PNG](http://www.zerocracy.com/logo-1024.png).
 
-Social networks:
+Social networks:<br/>
 [Facebook](https://www.facebook.com/zerocracy/),
 [Twitter](https://twitter.com/0crat),
 [LinkedIn](https://www.linkedin.com/company/zerocracy/),
