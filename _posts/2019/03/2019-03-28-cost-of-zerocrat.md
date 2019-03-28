@@ -80,3 +80,6 @@ of cash, we re-charge your credit card. When you decide to stop the project,
 we refund you the residual balance.
 
 So, what do you think, this $72 is more than you pay now or less?
+
+I think you pay at least 5 times more, if you are a small startup.
+If you have more than 100 people in your company, you pay 20+ times more.
