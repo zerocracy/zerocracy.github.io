@@ -91,3 +91,7 @@ replace him/her.
 Hope this helps.
 
 If I missed something, don't hesitate to comment below.
+
+PS. You may also like [this video](https://www.youtube.com/watch?v=w3HwEtFU2wo)
+that explains how to make sure your programmers are focused on what matters
+most of all.
