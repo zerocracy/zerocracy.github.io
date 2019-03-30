@@ -75,3 +75,21 @@ and ask all questions you have about your project, the progress you have,
 the mistakes you think your architect or your team is making. Don't be quiet,
 share your concerns! We will help. If you try to resolve them yourself,
 blame yourself when the project fails.
+
+**Read First**.
+You absolutely must read/watch these articles and videos:
+
+  * [Software Outsourcing Survival Guide](https://www.yegor256.com/2015/06/15/software-outsourcing-survival-guide.html)
+  * [How to Avoid a Software Outsourcing Disaster](https://www.yegor256.com/2015/05/21/avoid-software-outsourcing-disaster.html)
+  * [How Micro Is Your Tasking?](https://www.yegor256.com/2017/11/28/microtasking.html)
+  * [Employee Turnover Is Good for the Maintainability of Your Code Base](https://www.yegor256.com/2015/12/29/turnover-is-good-for-maintainability.html)
+  * [10 Typical Mistakes in Specs](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
+  * [Hourly Pay Is Modern Slavery](https://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html)
+  * [Meetings Are Legalized Robbery](https://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html)
+  * [M59: How to not get frustrated when dealing with freelancers and microtasking?](https://youtu.be/w3HwEtFU2wo)
+
+**Focus Them**.
+Don't let them work without focus control. Make sure your architect
+knows which parts of the scope are the most important and focus the
+team to work with them first. This
+[video](https://www.youtube.com/watch?v=w3HwEtFU2wo) explains how.
