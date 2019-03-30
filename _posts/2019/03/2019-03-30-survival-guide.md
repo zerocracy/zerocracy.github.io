@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survival Guide"
-date: 2019-03-26
+date: 2019-03-30
 description: |
   There are a few principles you should follow
   in order to make your project successful in
