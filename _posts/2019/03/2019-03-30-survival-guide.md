@@ -56,5 +56,14 @@ and remain with weak programmers.
 Most likely you used to communicate with programmers in chats like Slack
 or Telegram. You will do yourself a bad favor if you continue doing it
 with Zerocracy architect or, God forbids, programmers. GitHub must be your
-only communication instrument. You still find phone calls more convenient?
+only communication instrument, as
+this [blog post](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html) suggests.
+You still find phone calls more convenient?
 Blame yourself when the project falls apart.
+
+**Don't Trust Them**.
+Every week you absolutely must invite an external auditor to your repository
+and ask them to check what is wrong and what can be done better, as
+suggested [here](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
+and [here](https://www.yegor256.com/2017/11/21/trust-pay-lose.html).
+Demand them to provide their feedback in form of GitHub tickets.
