@@ -92,4 +92,5 @@ You absolutely must read/watch these articles and videos:
 Don't let them work without focus control. Make sure your architect
 knows which parts of the scope are the most important and focus the
 team to work with them first. This
-[video](https://www.youtube.com/watch?v=w3HwEtFU2wo) explains how.
+[video](https://www.youtube.com/watch?v=w3HwEtFU2wo) explains how
+boost factor, milestones, and manual assignments can be used for that.
