@@ -5,30 +5,34 @@ layout: default
   <h1>
     <span>{{ page.title }}</span>
   </h1>
-  <ul class="subline">
-    {% if page.author %}
+  {% if page.no_disqus %}
+    <p/>
+  {% else %}
+    <ul class="subline">
+      {% if page.author %}
+        <li>
+          {% if page.author.twitter %}
+            <i class="icon icon-twitter notranslate" aria-hidden="true"></i>
+            <a href="https://twitter.com/intent/follow?screen_name={{ page.author.twitter }}">{{ page.author.name }}</a>
+          {% endif %}
+          {% if page.author.linkedin %}
+            <i class="icon icon-linkedin notranslate" aria-hidden="true"></i>
+            <a href="https://linkedin.com/in/{{ page.author.linkedin }}">{{ page.author.name }}</a>
+          {% endif %}
+        </li>
+      {% endif %}
       <li>
-        {% if page.author.twitter %}
-          <i class="icon icon-twitter notranslate" aria-hidden="true"></i>
-          <a href="https://twitter.com/intent/follow?screen_name={{ page.author.twitter }}">{{ page.author.name }}</a>
-        {% endif %}
-        {% if page.author.linkedin %}
-          <i class="icon icon-linkedin notranslate" aria-hidden="true"></i>
-          <a href="https://linkedin.com/in/{{ page.author.linkedin }}">{{ page.author.name }}</a>
-        {% endif %}
+        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%-d %B %Y" }}
+        </time>
       </li>
-    {% endif %}
-    <li>
-      <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%-d %B %Y" }}
-      </time>
-    </li>
-    <!--
-    <li>
-      <a href="{{ site.url }}{{ page.url }}#disqus_thread" itemprop="discussionUrl">comments</a>
-    </li>
-    -->
-  </ul>
+      <!--
+      <li>
+        <a href="{{ site.url }}{{ page.url }}#disqus_thread" itemprop="discussionUrl">comments</a>
+      </li>
+      -->
+    </ul>
+  {% endif %}
   <div>{{ content }}</div>
 </article>
 

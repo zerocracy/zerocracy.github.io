@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Table of Contents"
+description: |
+  This blog is about Zerocracy, our management ideas,
+  our policy, our business cases, real life situations,
+  and stories.
+permalink: /contents.html
+no_disqus: true
+---
+
+{% for page in site.posts %}
+  {% if page.hidden %}
+  {% else %}
+    <p>
+      <a href="{{ page.url }}">
+        <strong>
+          <span itemprop="name headline mainEntityOfPage">{{ page.title }}</span>
+        </strong>
+      </a>
+      <br/>
+      <span style="color:gray">
+        {{ page.author.name }}
+        &nbsp;
+        <time itemprop="datePublished dateModified" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%-d %B %Y" }}
+        </time>
+      </span>
+    </p>
+  {% endif %}
+{% endfor %}
