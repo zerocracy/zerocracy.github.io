@@ -33,10 +33,10 @@ visually that the prototype proves that the key technical objective
 of the project is achievable. Only then you start adding programmers to the team.
 
 **Strict Pipeline**.
-Don't approve the prototype unless its build pipeline includes unit testing,
-static analysis, and test coverage control, as this
-[blog post](https://www.yegor256.com/2015/06/08/deadly-sins-software-project.html)
-suggests. There could be more elements there, but these three are absolutely mandatory.
+Don't approve the prototype unless its build pipeline includes
+1) unit testing, 2) static analysis, and 3) test coverage control,
+as this [blog post](https://www.yegor256.com/2015/06/08/deadly-sins-software-project.html) suggests.
+There could be more elements there, but these three are absolutely mandatory.
 
 **Read-Only Master**.
 Never let anybody, including yourself, any third-party experts, your full-timers,
