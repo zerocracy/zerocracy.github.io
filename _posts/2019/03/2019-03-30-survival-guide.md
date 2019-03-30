@@ -81,11 +81,16 @@ You absolutely must read/watch these articles and videos:
 
   * [Software Outsourcing Survival Guide](https://www.yegor256.com/2015/06/15/software-outsourcing-survival-guide.html)
   * [How to Avoid a Software Outsourcing Disaster](https://www.yegor256.com/2015/05/21/avoid-software-outsourcing-disaster.html)
+  * [Incremental Billing](https://www.yegor256.com/2014/10/21/incremental-billing.html)
+  * [Five Principles of Bug Tracking](https://www.yegor256.com/2014/11/24/principles-of-bug-tracking.html)
   * [How Micro Is Your Tasking?](https://www.yegor256.com/2017/11/28/microtasking.html)
   * [Employee Turnover Is Good for the Maintainability](https://www.yegor256.com/2015/12/29/turnover-is-good-for-maintainability.html)
+  * [Project Lifecycle in Zerocracy](https://www.yegor256.com/2014/10/06/software-project-lifecycle.html)
   * [10 Typical Mistakes in Specs](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
   * [Hourly Pay Is Modern Slavery](https://www.yegor256.com/2015/07/21/hourly-pay-modern-slavery.html)
   * [Meetings Are Legalized Robbery](https://www.yegor256.com/2015/07/13/meetings-are-legalized-robbery.html)
+  * [What Does a Software Architect Do?](https://www.yegor256.com/2014/10/12/who-is-software-architect.html)
+  * [How We Write a Product Vision](https://www.yegor256.com/2014/10/20/how-we-write-product-vision.html)
   * [M59: How to not get frustrated...](https://youtu.be/w3HwEtFU2wo)
 
 **Focus Them**.
