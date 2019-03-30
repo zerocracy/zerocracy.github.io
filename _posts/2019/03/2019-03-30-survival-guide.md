@@ -67,3 +67,11 @@ and ask them to check what is wrong and what can be done better, as
 suggested [here](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
 and [here](https://www.yegor256.com/2017/11/21/trust-pay-lose.html).
 Demand them to provide their feedback in form of GitHub tickets.
+
+**Talk to the Community**.
+When you are ready to start a project, submit the [RfP](https://www.zerocracy.com/rfp).
+Right after that, join our [Telegram chat](https://t.me/zerocracy). Stay there
+and ask all questions you have about your project, the progress you have,
+the mistakes you think your architect or your team is making. Don't be quiet,
+share your concerns! We will help. If you try to resolve them yourself,
+blame yourself when the project fails.
