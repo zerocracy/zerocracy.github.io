@@ -99,3 +99,24 @@ knows which parts of the scope are the most important and focus the
 team to work with them first. This
 [video](https://www.youtube.com/watch?v=w3HwEtFU2wo) explains how
 boost factor, milestones, and manual assignments can be used for that.
+
+**Hire QA**.
+We have a special role in Zerocracy, known as Quality Assurance (QA).
+It was invented in order to prevent abuse of our rules of work.
+It is strongly recommended to hire a QA when you start a project. You may
+not see why it's important, but trust us, without QA your project
+is at a huge risk of losing discipline and money.
+
+**Keep Recruiting**.
+Even when you think your team is full and you have enough programmers,
+don't rest assured. Hire new people constantly. Publish your project
+on our [board](https://www.0crat.com/board) and announce it in our
+[Telegram chat](https://t.me/zerocracy). The larger the team, the
+more chances for success your project has.
+
+**Release Daily**.
+Right after the prototype is ready, make sure your product is being released
+at least every day. Make sure you can release it yourself, without any
+assistance of the architect. Insist that the architect configures the
+delivery pipeline and give it to your control.
+
