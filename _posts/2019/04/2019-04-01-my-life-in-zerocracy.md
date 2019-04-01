@@ -1,3 +1,4 @@
+---
 layout: post
 title: "My Life Since I Discovered Zerocracy"
 date: 2018-11-23
