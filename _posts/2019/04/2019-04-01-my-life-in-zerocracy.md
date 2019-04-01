@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Life Since I Discovered Zerocracy"
-date: 2018-11-23
+date: 2019-04-01
 description: |
   As a fresh graduate, I struggled to find a path in
   my career. Did Zerocracy help me? How much did it help?
