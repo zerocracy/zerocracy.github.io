@@ -57,6 +57,7 @@ Social networks:<br/>
 [Facebook](https://www.facebook.com/zerocracy/),
 [Twitter](https://twitter.com/0crat),
 [LinkedIn](https://www.linkedin.com/company/zerocracy/),
+[Instagram](https://www.instagram.com/zerocracy/),
 [AngelList](https://angel.co/zerocracy),
 [Crunchbase](https://www.crunchbase.com/organization/zerocracy).
 
