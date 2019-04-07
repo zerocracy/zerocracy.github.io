@@ -66,7 +66,8 @@ Every week you absolutely must invite an external auditor to your repository
 and ask them to check what is wrong and what can be done better, as
 suggested [here](https://www.yegor256.com/2014/12/18/independent-technical-reviews.html)
 and [here](https://www.yegor256.com/2017/11/21/trust-pay-lose.html).
-Demand them to provide their feedback in form of GitHub tickets.
+Demand them to answer at least [these questions](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html) and
+provide their feedback in form of GitHub tickets.
 
 **Talk to the Community**.
 When you are ready to start a project, submit the [RfP](https://www.zerocracy.com/rfp).
