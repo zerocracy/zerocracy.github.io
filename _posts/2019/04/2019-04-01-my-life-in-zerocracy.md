@@ -17,6 +17,8 @@ I saw that there was something wrong in this market:
 working in a multi-national company wasn't a proof that I was
 good enough.
 
+<!--more-->
+
 I started to read blog posts every day and finally,
 I found out about Zerocracy and everything started to make sense.
 
