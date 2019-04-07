@@ -105,11 +105,12 @@ milestones, and
 can be used for that.
 
 **Hire QA**.
-We have a special role in Zerocracy, known as Quality Assurance (QA).
+We have a special [role](https://www.yegor256.com/2016/07/10/software-project-roles.html)
+in Zerocracy, known as Quality Assurance (QA).
 It was invented in order to prevent abuse of our rules of work.
 It is strongly recommended to hire a QA when you start a project. You may
 not see why it's important, but trust us, without QA your project
-is at a huge risk of losing discipline and money.
+is at a huge risk of losing discipline _and_ money.
 
 **Keep Recruiting**.
 Even when you think your team is full and you have enough programmers,
