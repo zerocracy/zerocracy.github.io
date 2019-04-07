@@ -99,7 +99,10 @@ Don't let them work without focus control. Make sure your architect
 knows which parts of the scope are the most important and focus the
 team to work with them first. This
 [video](https://www.youtube.com/watch?v=w3HwEtFU2wo) explains how
-boost factor, milestones, and manual assignments can be used for that.
+[boost factor](http://www.zerocracy.com/policy.html#5),
+milestones, and
+[manual assignments](http://www.zerocracy.com/policy.html#19)
+can be used for that.
 
 **Hire QA**.
 We have a special role in Zerocracy, known as Quality Assurance (QA).
