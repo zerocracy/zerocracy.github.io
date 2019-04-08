@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Five Steps Before Microtasking"
+title: "Five Steps To Microtasking"
 date: 2019-04-08
 description: |
   Switching your team from full-time mode to microtasking
