@@ -12,7 +12,8 @@ author:
 ---
 
 Every day we meet many CTOs, architects, developers and startup founders,
-who like the management model of Zerocracy, which is based on microtasking.
+who like the management model of [Zerocracy](https://www.zerocracy.com),
+which is based on [microtasking](https://www.youtube.com/watch?v=GozQCUH2D0I).
 They understand that paying by result is a much more effective way
 of managing human resources, comparing to an old and traditional
 monthly salaries. However, they are not ready to jump into it immediately.
