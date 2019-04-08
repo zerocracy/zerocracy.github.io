@@ -50,8 +50,9 @@ Email:<br/>
 [team@zerocracy.com](mailto:team@zerocracy.com).
 
 Logo:<br/>
-[SVG](http://www.0crat.com/svg/logo.svg),
-[PNG](http://www.zerocracy.com/logo-1024.png).
+[Logo SVG](http://www.0crat.com/svg/logo.svg),
+[Logo PNG](http://www.zerocracy.com/logo-1024.png),
+[Zerocrat SVG](https://www.0crat.com/svg/zerocrat.svg).
 
 Social networks:<br/>
 [Facebook](https://www.facebook.com/zerocracy/),
@@ -60,6 +61,9 @@ Social networks:<br/>
 [Instagram](https://www.instagram.com/zerocracy/),
 [AngelList](https://angel.co/zerocracy),
 [Crunchbase](https://www.crunchbase.com/organization/zerocracy).
+
+Main video:<br/>
+[here](https://www.youtube.com/watch?v=GozQCUH2D0I)
 
 Employees:<br/>
 4-6
