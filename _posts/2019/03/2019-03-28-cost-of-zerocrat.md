@@ -38,12 +38,12 @@ approximately that much (exact numbers you can find in our
 [Policy](https://www.zerocracy.com/policy.html)):
 
 {% highlight text %}
-Creating a ticket:     15 minutes
-Programming:           30 minutes
-Code review:           15 minutes
-Two QA reviews:         8 minutes
-Architect review:      10 minutes
-Zerocracy fee, twice: $16
+Creating a ticket:    15 minutes
+Programming:          30 minutes
+Code review:          15 minutes
+Two QA reviews:        8 minutes
+Architect review:     10 minutes
+Zerocracy fee, twice: $8
 {% endhighlight %}
 
 It's all in minutes, because different programmers have different rates, which
@@ -57,9 +57,9 @@ Programming:            $25.00
 Code review:            $12.50
 Two QA reviews:          $4.00
 Architect review:       $10.00
-Zerocracy fee:          $16.00
+Zerocracy fee:           $8.00
 --
-Total:                  $80.00
+Total:                  $72.00
 {% endhighlight %}
 
 How much do you currently pay per each feature modification or a bug fix
@@ -79,7 +79,7 @@ a down payment and spend that money as you go. Once your project runs out
 of cash, we re-charge your credit card. When you decide to stop the project,
 we refund you the residual balance.
 
-So, what do you think, this $80 is more than you pay now or less?
+So, what do you think, this $72 is more than you pay now or less?
 
 I think you pay at least 5 times more, if you are a small startup.
 If you have more than 100 people in your company, you pay 20+ times more.
