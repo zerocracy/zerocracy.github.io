@@ -3,7 +3,9 @@ layout: post
 title: "Five Steps Before Microtasking"
 date: 2019-04-08
 description: |
-  ...
+  Switching your team from full-time mode to microtasking
+  may be pretty traumatic and you may lose the team and the code;
+  we help you make it slowly and safely.
 author:
   name: Yegor Bugayenko
   twitter: yegor256
