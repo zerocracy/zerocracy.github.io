@@ -46,6 +46,9 @@ Ste 470, 555 Bryant Str, Palo Alto, CA 94301, USA.
 Founded:<br/>
 August 4, 2016.
 
+Entity:<br/>
+C-Corp, Delaware, USA.
+
 Email:<br/>
 [team@zerocracy.com](mailto:team@zerocracy.com).
 
