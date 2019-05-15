@@ -52,6 +52,9 @@ C-Corp, Delaware, USA.
 Email:<br/>
 [team@zerocracy.com](mailto:team@zerocracy.com).
 
+Photo:<br/>
+408.692.4742
+
 Logo:<br/>
 [Logo SVG](http://www.0crat.com/svg/logo.svg),
 [Logo PNG](http://www.zerocracy.com/logo-1024.png),
