@@ -55,4 +55,7 @@ If necessary, we sign a Non-Disclosure Agreement with you, to protect
 your digital artifacts and sensitive information against any possible
 leakage.
 
+You can pay by wire, PayPal, Bitcoin, or VISA/MasterCard. You pay 50%
+upfront and the rest when the report is ready.
+
 To start, [email us](mailto:audit@zerocracy.com).
