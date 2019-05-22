@@ -42,17 +42,18 @@ requirements documentation, continuous integration environment,
 production logs, test environment, database schema (and data, if possible),
 and any other digital artifact, which seems to be relevant.
 
-The auditor won't communicate with your programmers. The auditor
+The auditor [won't talk](https://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html)
+to your programmers. The auditor
 only reviews the artifacts available, pretending to be a new developer
 joining the team and trying to understand what's going on.
 
 By the end of the audit, you will get a PDF report with a short summary
 of what is the overall situation in the product and a list of most
 critical issues. Each issue will be accompanied with recommendations
-for corrective actions.
+for corrective and/or preventive actions.
 
-If necessary, we sign a Non-Disclosure Agreement with you, to protect
-your digital artifacts and sensitive information against any possible
+If necessary, we sign a [Non-Disclosure Agreement](https://www.yegor256.com/2015/05/04/how-to-protect-business-idea.html)
+with you, to protect your digital artifacts and sensitive information against any possible
 leakage.
 
 You can pay by wire, PayPal, Bitcoin, or VISA/MasterCard. You pay 50%
