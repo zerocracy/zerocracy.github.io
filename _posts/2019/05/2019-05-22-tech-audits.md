@@ -35,7 +35,8 @@ of our auditors available, together with their hourly
 rates. To get the actual rate, take one of their rates from
 the table and double it: Zerocracy and the auditor split
 the fee 50/50. Pick them from the top of the table, the best auditors
-have the highest reputation score.
+have the highest reputation score. One hour will cost you approximately
+$160.
 
 You will have to provide us the access to your source code,
 requirements documentation, continuous integration environment,
