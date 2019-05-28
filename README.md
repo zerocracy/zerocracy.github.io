@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/zerocracy/zerocracy.github.io.svg?branch=master)](https://travis-ci.org/zerocracy/zerocracy.github.io)
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy.github.io)](https://hitsofcode.com/view/github/zerocracy/zerocracy.github.io)
 
+[![Availability at SixNines](http://www.sixnines.io/b/f128)](http://www.sixnines.io/h/f128)
+
 See [zerocracy.com](http://www.zerocracy.com).
 
 This is a static website powered by [Jekyll](https://jekyllrb.com/). Every time you
