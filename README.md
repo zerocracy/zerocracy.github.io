@@ -1,6 +1,7 @@
 <img src="https://www.0crat.com/svg/logo.svg" width="64px" height="64px"/>
 
 [![Build Status](https://travis-ci.org/zerocracy/zerocracy.github.io.svg?branch=master)](https://travis-ci.org/zerocracy/zerocracy.github.io)
+[![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy.github.io)](https://hitsofcode.com/view/github/zerocracy/zerocracy.github.io)
 
 See [zerocracy.com](http://www.zerocracy.com).
 
