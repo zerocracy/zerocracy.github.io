@@ -1,1 +1,0 @@
-sitemap: http://bloghacks.yegor256.com/sitemap.xml
