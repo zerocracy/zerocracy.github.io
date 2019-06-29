@@ -73,8 +73,8 @@ Fourth, it's the [10-days](http://www.zerocracy.com/policy.html#8) window per ta
 It is pretty large for a project that wants to move forward really fast. You need to
 make it shorter, in order to eject slow developers from their tasks. This is
 the punishment part. Ask your architect to modify that parameter in our
-project configuration and things will improve. You may loose some programmers,
-who are not ready too work faster than they used to, but that't the price
+project configuration and things will improve. You may lose some programmers,
+who are not ready to work faster than they used to, but that's the price
 you will pay for the speed of development you want to get.
 
 Fifth, don't hesitate to eject slow producers. In the world of freelancing
