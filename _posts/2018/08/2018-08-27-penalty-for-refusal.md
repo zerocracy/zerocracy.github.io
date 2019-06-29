@@ -24,7 +24,7 @@ Here is the logic explained.
 <!--more-->
 
 First of all, the penalty you are getting for refusing the task is not monetary.
-Your wallet doesn't loose any dollars if you refuse a task.
+Your wallet doesn't lose any dollars if you refuse a task.
 It's only the reputation points that are deducted.
 
 Second, ask yourself, why do you have to refuse tasks sometimes?
