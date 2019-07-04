@@ -18,7 +18,7 @@ increase quality, motivation, and so on. "OK, but what is the financial gain," t
 "What is my return on investment? How much will I pay and why it will
 be cheaper than what I spend now? Give me the price list!"
 It's a fair question, which is rather difficult to answer. There is a price
-list, of course, but it's impossible to compare it with what you guys are
+list, of course, but it's impossible to compare it with what you are
 used to see in a traditional software development.
 
 <!--more-->
