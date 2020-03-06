@@ -40,20 +40,14 @@ Important documents:<br/>
 CEO:<br/>
 [Yegor Bugayenko](http://www.yegor256.com).
 
-Address:<br/>
-Ste 470, 555 Bryant Str, Palo Alto, CA 94301, USA.
-
 Founded:<br/>
 August 4, 2016.
 
 Entity:<br/>
-C-Corp, Delaware, USA.
+Community-driven open source project.
 
 Email:<br/>
 [team@zerocracy.com](mailto:team@zerocracy.com).
-
-Photo:<br/>
-408.692.4742
 
 Logo:<br/>
 [Logo SVG](http://www.0crat.com/svg/logo.svg),
@@ -79,9 +73,6 @@ Clients/projects:<br/>
 
 Programmers:<br/>
 [50-100](https://www.0crat.com/team)
-
-Capital raised:<br/>
-$800K+ (private money)
 
 Media about us:<br/>
 [CIO.com](https://www.cio.com/article/3326560/artificial-intelligence/workplace-ai-emerging-technologies-ethical-questions.html),
