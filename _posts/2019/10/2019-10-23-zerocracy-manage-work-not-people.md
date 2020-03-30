@@ -12,6 +12,7 @@ featured-img: ./cubicles.jpg
 
 Management is a very popular concept in today's working world. There are many books written on management. People attend management seminars. Off-site meetups are billed as management retreats.
 
+<!--more-->
 
 <img src="/images/2019/10/cubicles.jpg" alt="Slaves Being Managed" />
 
