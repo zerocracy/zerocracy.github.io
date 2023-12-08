@@ -1,5 +1,6 @@
 <img src="/logo.svg" width="64px" height="64px"/>
 
+[![jekyll](https://github.com/zerocracy/zerocracy.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/zerocracy/zerocracy.github.io/actions/workflows/jekyll.yml)
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy.github.io)](https://hitsofcode.com/view/github/zerocracy/zerocracy.github.io)
 
 [![Availability at SixNines](http://www.sixnines.io/b/f128)](http://www.sixnines.io/h/f128)
