@@ -3,7 +3,7 @@ email: team@zerocarcy.com
 description: >
   A project manager that never sleeps
 baseurl: ""
-url: "http://www.zerocracy.com"
+url: "https://www.zerocracy.com"
 twitter_username: 0crat
 github_username: zerocracy
 markdown: kramdown
@@ -17,7 +17,6 @@ exclude:
   - Gemfile.lock
   - Gemfile
   - LICENSE.txt
-  - .travis.yml
 plugins:
   - jekyll-feed
   - jekyll-paginate

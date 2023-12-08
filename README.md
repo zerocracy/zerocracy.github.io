@@ -1,17 +1,14 @@
-<img src="https://www.0crat.com/svg/logo.svg" width="64px" height="64px"/>
+<img src="https://www.zerocracy.com/logo.svg" width="64px" height="64px"/>
 
-[![Build Status](https://travis-ci.org/zerocracy/zerocracy.github.io.svg?branch=master)](https://travis-ci.org/zerocracy/zerocracy.github.io)
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy.github.io)](https://hitsofcode.com/view/github/zerocracy/zerocracy.github.io)
 
 [![Availability at SixNines](http://www.sixnines.io/b/f128)](http://www.sixnines.io/h/f128)
 
-See [zerocracy.com](http://www.zerocracy.com).
+See [zerocracy.com](https://www.zerocracy.com).
 
 This is a static website powered by [Jekyll](https://jekyllrb.com/). Every time you
-push something to the `master` branch, [Travis](https://travis-ci.org/zerocracy/zerocracy.github.io) picks it up,
-re-generates the site with Jekyll, and commits new version
-to the `gh-pages` branch. Then, [GitHub Pages](https://pages.github.com/) re-publish the
-content to [www.zerocracy.com](https://www.zerocracy.com).
+push something to the `master` branch, [GitHub Pages](https://pages.github.com/) re-publish the
+content to [zerocracy.com](https://www.zerocracy.com).
 
 ## How to contribute
 
