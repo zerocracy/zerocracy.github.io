@@ -1,4 +1,4 @@
-<img src="https://www.zerocracy.com/logo.svg" width="64px" height="64px"/>
+<img src="/logo.svg" width="64px" height="64px"/>
 
 [![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy.github.io)](https://hitsofcode.com/view/github/zerocracy/zerocracy.github.io)
 
